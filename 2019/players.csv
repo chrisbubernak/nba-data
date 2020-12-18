@@ -1,0 +1,548 @@
+,PERSON_ID,DISPLAY_LAST_COMMA_FIRST,DISPLAY_FIRST_LAST,ROSTERSTATUS,FROM_YEAR,TO_YEAR,PLAYERCODE,TEAM_ID,TEAM_CITY,TEAM_NAME,TEAM_ABBREVIATION,TEAM_CODE,GAMES_PLAYED_FLAG,OTHERLEAGUE_EXPERIENCE_CH
+19,1629121,"Adams, Jaylen",Jaylen Adams,1,2018,2020,jaylen_adams,1610612749,Milwaukee,Bucks,MIL,bucks,Y,01
+22,203500,"Adams, Steven",Steven Adams,1,2013,2020,steven_adams,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00
+24,1628389,"Adebayo, Bam",Bam Adebayo,1,2017,2020,bam_adebayo,1610612748,Miami,Heat,MIA,heat,Y,00
+42,200746,"Aldridge, LaMarcus",LaMarcus Aldridge,1,2006,2020,lamarcus_aldridge,1610612759,San Antonio,Spurs,SAS,spurs,Y,00
+49,1629734,"Alexander, Kyle",Kyle Alexander,0,2019,2019,kyle_alexander,0,,,,,Y,01
+52,1629638,"Alexander-Walker, Nickeil",Nickeil Alexander-Walker,1,2019,2020,nickeil_alexander-walker,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,01
+54,1628959,"Alkins, Rawle",Rawle Alkins,1,2018,2020,rawle_alkins,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,01
+56,1628960,"Allen, Grayson",Grayson Allen,1,2018,2020,grayson_allen,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,01
+57,1628386,"Allen, Jarrett",Jarrett Allen,1,2017,2020,jarrett_allen,1610612751,Brooklyn,Nets,BKN,nets,Y,00
+59,1628443,"Allen, Kadeem",Kadeem Allen,0,2017,2019,kadeem_allen,0,,,,,Y,01
+75,202329,"Aminu, Al-Farouq",Al-Farouq Aminu,1,2010,2020,al-farouq_aminu,1610612753,Orlando,Magic,ORL,magic,Y,00
+90,1626147,"Anderson, Justin",Justin Anderson,1,2015,2020,justin_anderson,1610612755,Philadelphia,76ers,PHI,sixers,Y,01
+93,203937,"Anderson, Kyle",Kyle Anderson,1,2014,2020,kyle_anderson,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,01
+99,201583,"Anderson, Ryan",Ryan Anderson,0,2008,2019,ryan_anderson,0,,,,,Y,00
+105,1628387,"Anigbogu, Ike",Ike Anigbogu,1,2017,2020,ike_anigbogu,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,01
+108,203507,"Antetokounmpo, Giannis",Giannis Antetokounmpo,1,2013,2020,giannis_antetokounmpo,1610612749,Milwaukee,Bucks,MIL,bucks,Y,00
+109,1628961,"Antetokounmpo, Kostas",Kostas Antetokounmpo,1,2018,2020,kostas_antetokounmpo,1610612747,Los Angeles,Lakers,LAL,lakers,Y,01
+110,203648,"Antetokounmpo, Thanasis",Thanasis Antetokounmpo,1,2015,2020,thanasis_antetokounmpo,1610612749,Milwaukee,Bucks,MIL,bucks,Y,01
+111,2546,"Anthony, Carmelo",Carmelo Anthony,1,2003,2020,carmelo_anthony,1610612757,Portland,Trail Blazers,POR,blazers,Y,00
+116,1628384,"Anunoby, OG",OG Anunoby,1,2017,2020,og_anunoby,1610612761,Toronto,Raptors,TOR,raptors,Y,00
+122,1627853,"Arcidiacono, Ryan",Ryan Arcidiacono,1,2017,2020,ryan_arcidiacono,1610612741,Chicago,Bulls,CHI,bulls,Y,01
+125,2772,"Ariza, Trevor",Trevor Ariza,1,2004,2020,trevor_ariza,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,00
+151,201571,"Augustin, D.J.",D.J. Augustin,1,2008,2020,d.j._augustin,1610612749,Milwaukee,Bucks,MIL,bucks,Y,00
+163,1629028,"Ayton, Deandre",Deandre Ayton,1,2018,2020,deandre_ayton,1610612756,Phoenix,Suns,PHX,suns,Y,00
+170,1628407,"Bacon, Dwayne",Dwayne Bacon,1,2017,2020,dwayne_bacon,1610612753,Orlando,Magic,ORL,magic,Y,01
+174,1628963,"Bagley III, Marvin",Marvin Bagley III,1,2018,2020,marvin_bagley_iii,1610612758,Sacramento,Kings,SAC,kings,Y,00
+191,1628366,"Ball, Lonzo",Lonzo Ball,1,2017,2020,lonzo_ball,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00
+194,1628964,"Bamba, Mo",Mo Bamba,1,2018,2020,mohamed_bamba,1610612753,Orlando,Magic,ORL,magic,Y,00
+203,200826,"Barea, J.J.",J.J. Barea,0,2006,2019,j.j._barea,0,,,,,Y,01
+210,203084,"Barnes, Harrison",Harrison Barnes,1,2012,2020,harrison_barnes,1610612758,Sacramento,Kings,SAC,kings,Y,00
+225,1629628,"Barrett, RJ",RJ Barrett,1,2019,2020,rj_barrett,1610612752,New York,Knicks,NYK,knicks,Y,00
+234,203115,"Barton, Will",Will Barton,1,2012,2020,will_barton,1610612743,Denver,Nuggets,DEN,nuggets,Y,01
+242,1628966,"Bates-Diop, Keita",Keita Bates-Diop,1,2018,2020,keita_bates-diop,1610612759,San Antonio,Spurs,SAS,spurs,Y,01
+250,201587,"Batum, Nicolas",Nicolas Batum,1,2008,2020,nicolas_batum,1610612746,LA,Clippers,LAC,clippers,Y,00
+256,203382,"Baynes, Aron",Aron Baynes,1,2012,2020,aron_baynes,1610612761,Toronto,Raptors,TOR,raptors,Y,01
+258,203145,"Bazemore, Kent",Kent Bazemore,1,2012,2020,kent_bazemore,1610612744,Golden State,Warriors,GSW,warriors,Y,01
+259,1629647,"Bazley, Darius",Darius Bazley,1,2019,2020,darius_bazley,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,00
+261,203078,"Beal, Bradley",Bradley Beal,1,2012,2020,bradley_beal,1610612764,Washington,Wizards,WAS,wizards,Y,00
+265,1627736,"Beasley, Malik",Malik Beasley,1,2016,2020,malik_beasley,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,01
+277,201158,"Belinelli, Marco",Marco Belinelli,0,2007,2019,marco_belinelli,0,,,,,Y,00
+280,1628395,"Bell, Jordan",Jordan Bell,0,2017,2019,jordan_bell,0,,,,,Y,01
+285,1627761,"Bembry, DeAndre'",DeAndre' Bembry,1,2016,2020,deandre'_bembry,1610612761,Toronto,Raptors,TOR,raptors,Y,01
+288,1627733,"Bender, Dragan",Dragan Bender,0,2016,2019,dragan_bender,0,,,,,Y,01
+308,202722,"Bertans, Davis",Davis Bertans,1,2016,2020,davis_bertans,1610612764,Washington,Wizards,WAS,wizards,Y,01
+311,201976,"Beverley, Patrick",Patrick Beverley,1,2012,2020,patrick_beverley,1610612746,LA,Clippers,LAC,clippers,Y,01
+326,203920,"Birch, Khem",Khem Birch,1,2017,2020,khem_birch,1610612753,Orlando,Magic,ORL,magic,Y,01
+332,1629048,"Bitadze, Goga",Goga Bitadze,1,2019,2020,goga_bitadze,1610612754,Indiana,Pacers,IND,pacers,Y,01
+333,202687,"Biyombo, Bismack",Bismack Biyombo,1,2011,2020,bismack_biyombo,1610612766,Charlotte,Hornets,CHA,hornets,Y,00
+334,202357,"Bjelica, Nemanja",Nemanja Bjelica,1,2015,2020,nemanja_bjelica,1610612758,Sacramento,Kings,SAC,kings,Y,00
+355,202339,"Bledsoe, Eric",Eric Bledsoe,1,2010,2020,eric_bledsoe,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,01
+364,1629129,"Bluiett, Trevon",Trevon Bluiett,1,2018,2020,trevon_bluiett,1610612762,Utah,Jazz,UTA,jazz,Y,01
+371,203992,"Bogdanovic, Bogdan",Bogdan Bogdanovic,1,2017,2020,bogdan_bogdanovic,1610612737,Atlanta,Hawks,ATL,hawks,Y,00
+372,202711,"Bogdanovic, Bojan",Bojan Bogdanovic,1,2014,2020,bojan_bogdanovic,1610612762,Utah,Jazz,UTA,jazz,Y,00
+376,1629626,"Bol, Bol",Bol Bol,1,2019,2020,bol_bol,1610612743,Denver,Nuggets,DEN,nuggets,Y,01
+378,1628413,"Bolden, Jonah",Jonah Bolden,0,2018,2019,jonah_bolden,0,,,,,Y,01
+379,1629716,"Bolden, Marques",Marques Bolden,1,2019,2020,marques_bolden,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,01
+386,1629648,"Bone, Jordan",Jordan Bone,1,2019,2020,jordan_bone,1610612753,Orlando,Magic,ORL,magic,Y,01
+388,1629067,"Bonga, Isaac",Isaac Bonga,1,2018,2020,isaac_bonga,1610612764,Washington,Wizards,WAS,wizards,Y,01
+392,1626164,"Booker, Devin",Devin Booker,1,2015,2020,devin_booker,1610612756,Phoenix,Suns,PHX,suns,Y,00
+410,1628449,"Boucher, Chris",Chris Boucher,1,2017,2020,chris_boucher,1610612761,Toronto,Raptors,TOR,raptors,Y,01
+417,1628968,"Bowen II, Brian",Brian Bowen II,1,2019,2020,brian_bowen_ii,1610612754,Indiana,Pacers,IND,pacers,Y,01
+421,1629065,"Bowman, Ky",Ky Bowman,1,2019,2020,ky_bowman,1610612746,LA,Clippers,LAC,clippers,Y,01
+436,202340,"Bradley, Avery",Avery Bradley,1,2010,2020,avery_bradley,1610612748,Miami,Heat,MIA,heat,Y,01
+443,1628396,"Bradley, Tony",Tony Bradley,1,2017,2020,tony_bradley,1610612755,Philadelphia,76ers,PHI,sixers,Y,01
+454,1629714,"Brantley, Jarrell",Jarrell Brantley,1,2019,2020,jarrell_brantley,1610612762,Utah,Jazz,UTA,jazz,Y,01
+458,1629649,"Brazdeikis, Ignas",Ignas Brazdeikis,1,2019,2020,ignas_brazdeikis,1610612752,New York,Knicks,NYK,knicks,Y,01
+464,201147,"Brewer, Corey",Corey Brewer,0,2007,2019,corey_brewer,0,,,,,Y,00
+474,1628969,"Bridges, Mikal",Mikal Bridges,1,2018,2020,mikal_bridges,1610612756,Phoenix,Suns,PHX,suns,Y,00
+475,1628970,"Bridges, Miles",Miles Bridges,1,2018,2020,miles_bridges,1610612766,Charlotte,Hornets,CHA,hornets,Y,00
+481,1629052,"Brissett, Oshae",Oshae Brissett,1,2019,2020,oshae_brissett,1610612761,Toronto,Raptors,TOR,raptors,Y,01
+488,1629151,"Broekhoff, Ryan",Ryan Broekhoff,1,2018,2020,ryan_broekhoff,1610612755,Philadelphia,76ers,PHI,sixers,Y,00
+490,1627763,"Brogdon, Malcolm",Malcolm Brogdon,1,2016,2020,malcolm_brogdon,1610612754,Indiana,Pacers,IND,pacers,Y,00
+494,1628415,"Brooks, Dillon",Dillon Brooks,1,2017,2020,dillon_brooks,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,00
+503,1628971,"Brown, Bruce",Bruce Brown,1,2018,2020,tmp_bruce_brown,1610612751,Brooklyn,Nets,BKN,nets,Y,01
+517,1627759,"Brown, Jaylen",Jaylen Brown,1,2016,2020,jaylen_brown,1610612738,Boston,Celtics,BOS,celtics,Y,00
+527,1629650,"Brown, Moses",Moses Brown,1,2019,2020,moses_brown,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,01
+536,1628425,"Brown, Sterling",Sterling Brown,1,2017,2020,sterling_brown,1610612745,Houston,Rockets,HOU,rockets,Y,01
+539,1629718,"Brown Jr., Charles",Charles Brown Jr.,1,2019,2020,charles_brown,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,01
+540,1628972,"Brown Jr., Troy",Troy Brown Jr.,1,2018,2020,troy_brown_jr,1610612764,Washington,Wizards,WAS,wizards,Y,01
+543,1628973,"Brunson, Jalen",Jalen Brunson,1,2018,2020,jalen_brunson,1610612742,Dallas,Mavericks,DAL,mavericks,Y,00
+550,1628418,"Bryant, Thomas",Thomas Bryant,1,2017,2020,thomas_bryant,1610612764,Washington,Wizards,WAS,wizards,Y,01
+564,203493,"Bullock, Reggie",Reggie Bullock,1,2013,2020,reggie_bullock,1610612752,New York,Knicks,NYK,knicks,Y,01
+570,203504,"Burke, Trey",Trey Burke,1,2013,2020,trey_burke,1610612742,Dallas,Mavericks,DAL,mavericks,Y,01
+572,202692,"Burks, Alec",Alec Burks,1,2011,2020,alec_burks,1610612752,New York,Knicks,NYK,knicks,Y,01
+584,1629126,"Burton, Deonte",Deonte Burton,0,2018,2019,deonte_burton,0,,,,,Y,01
+596,202710,"Butler, Jimmy",Jimmy Butler,1,2011,2020,jimmy_butler,1610612748,Miami,Heat,MIA,heat,Y,00
+608,203998,"Caboclo, Bruno",Bruno Caboclo,1,2014,2020,bruno_caboclo,1610612745,Houston,Rockets,HOU,rockets,Y,01
+609,1629719,"Cacok, Devontae",Devontae Cacok,1,2019,2020,davontae_cacok,1610612747,Los Angeles,Lakers,LAL,lakers,Y,01
+618,203484,"Caldwell-Pope, Kentavious",Kentavious Caldwell-Pope,1,2013,2020,kentavious_caldwell-pope,1610612747,Los Angeles,Lakers,LAL,lakers,Y,00
+632,1628427,"Cancar, Vlatko",Vlatko Cancar,1,2019,2020,vlatko_cancar,1610612743,Denver,Nuggets,DEN,nuggets,Y,01
+635,203991,"Capela, Clint",Clint Capela,1,2014,2020,clint_capela,1610612737,Atlanta,Hawks,ATL,hawks,Y,01
+656,201960,"Carroll, DeMarre",DeMarre Carroll,0,2009,2019,demarre_carroll,0,,,,,Y,01
+666,1628975,"Carter, Jevon",Jevon Carter,1,2018,2020,jevon_carter,1610612756,Phoenix,Suns,PHX,suns,Y,01
+670,1713,"Carter, Vince",Vince Carter,0,1998,2019,vince_carter,0,,,,,Y,00
+671,1628976,"Carter Jr., Wendell",Wendell Carter Jr.,1,2018,2020,wendell_carter_jr,1610612741,Chicago,Bulls,CHI,bulls,Y,00
+672,203487,"Carter-Williams, Michael",Michael Carter-Williams,1,2013,2020,michael_carter-williams,1610612753,Orlando,Magic,ORL,magic,Y,00
+675,1627936,"Caruso, Alex",Alex Caruso,1,2017,2020,alex_caruso,1610612747,Los Angeles,Lakers,LAL,lakers,Y,01
+684,1626161,"Cauley-Stein, Willie",Willie Cauley-Stein,1,2015,2020,willie_cauley-stein,1610612742,Dallas,Mavericks,DAL,mavericks,Y,00
+699,2199,"Chandler, Tyson",Tyson Chandler,0,2001,2019,tyson_chandler,0,,,,,Y,00
+700,201163,"Chandler, Wilson",Wilson Chandler,0,2007,2019,wilson_chandler,0,,,,,Y,00
+707,1629147,"Chealey, Joe",Joe Chealey,0,2018,2019,joe_chealey,0,,,,,Y,01
+709,1629597,"Cheatham, Zylan",Zylan Cheatham,0,2019,2019,zylan_cheatham,0,,,,,Y,01
+719,1629185,"Chiozza, Chris",Chris Chiozza,1,2018,2020,chris_chiozza,1610612751,Brooklyn,Nets,BKN,nets,Y,01
+722,1627737,"Chriss, Marquese",Marquese Chriss,1,2016,2020,marquese_chriss,1610612744,Golden State,Warriors,GSW,warriors,Y,00
+735,1629109,"Clark, Gary",Gary Clark,1,2018,2020,gary_clark,1610612753,Orlando,Magic,ORL,magic,Y,01
+738,1629634,"Clarke, Brandon",Brandon Clarke,1,2019,2020,brandon_clarke,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,00
+740,203903,"Clarkson, Jordan",Jordan Clarkson,1,2014,2020,jordan_clarkson,1610612762,Utah,Jazz,UTA,jazz,Y,01
+744,1629651,"Claxton, Nicolas",Nicolas Claxton,1,2019,2020,nicolas_claxton,1610612751,Brooklyn,Nets,BKN,nets,Y,01
+749,1629598,"Clemons, Chris",Chris Clemons,1,2019,2020,chris_clemons,1610612745,Houston,Rockets,HOU,rockets,Y,01
+750,1628499,"Cleveland, Antonius",Antonius Cleveland,0,2017,2019,antonius_cleveland,0,,,,,Y,01
+757,1629599,"Coffey, Amir",Amir Coffey,1,2019,2020,amir_coffey,1610612746,LA,Clippers,LAC,clippers,Y,01
+776,1628381,"Collins, John",John Collins,1,2017,2020,john_collins,1610612737,Atlanta,Hawks,ATL,hawks,Y,00
+779,1628380,"Collins, Zach",Zach Collins,1,2017,2020,zach_collins,1610612757,Portland,Trail Blazers,POR,blazers,Y,00
+791,201144,"Conley, Mike",Mike Conley,1,2007,2020,mike_conley,1610612762,Utah,Jazz,UTA,jazz,Y,00
+794,1626192,"Connaughton, Pat",Pat Connaughton,1,2015,2020,pat_connaughton,1610612749,Milwaukee,Bucks,MIL,bucks,Y,00
+808,1626188,"Cook, Quinn",Quinn Cook,1,2016,2020,quinn_cook,1610612747,Los Angeles,Lakers,LAL,lakers,Y,01
+809,1629076,"Cook, Tyler",Tyler Cook,1,2019,2020,tyler_cook,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,01
+838,202326,"Cousins, DeMarcus",DeMarcus Cousins,1,2010,2020,demarcus_cousins,1610612745,Houston,Rockets,HOU,rockets,Y,00
+840,203496,"Covington, Robert",Robert Covington,1,2013,2020,robert_covington,1610612757,Portland,Trail Blazers,POR,blazers,Y,01
+845,203459,"Crabbe, Allen",Allen Crabbe,0,2013,2019,allen_crabbe,0,,,,,Y,01
+846,1628470,"Craig, Torrey",Torrey Craig,1,2017,2020,torrey_craig,1610612749,Milwaukee,Bucks,MIL,bucks,Y,01
+849,2037,"Crawford, Jamal",Jamal Crawford,0,2000,2019,jamal_crawford,0,,,,,Y,00
+871,203109,"Crowder, Jae",Jae Crowder,1,2012,2020,jae_crowder,1610612756,Phoenix,Suns,PHX,suns,Y,01
+872,1629633,"Culver, Jarrett",Jarrett Culver,1,2019,2020,jarrett_culver,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,00
+890,203552,"Curry, Seth",Seth Curry,1,2013,2020,seth_curry,1610612755,Philadelphia,76ers,PHI,sixers,Y,01
+891,201939,"Curry, Stephen",Stephen Curry,1,2009,2020,stephen_curry,1610612744,Golden State,Warriors,GSW,warriors,Y,00
+906,203584,"Daniels, Troy",Troy Daniels,0,2013,2019,troy_daniels,0,,,,,Y,01
+921,203076,"Davis, Anthony",Anthony Davis,1,2012,2020,anthony_davis,1610612747,Los Angeles,Lakers,LAL,lakers,Y,00
+935,202334,"Davis, Ed",Ed Davis,1,2010,2020,ed_davis,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,01
+955,1629056,"Davis, Terence",Terence Davis,1,2019,2020,terence_davis,1610612761,Toronto,Raptors,TOR,raptors,Y,00
+975,201942,"DeRozan, DeMar",DeMar DeRozan,1,2009,2020,demar_derozan,1610612759,San Antonio,Spurs,SAS,spurs,Y,00
+978,203473,"Dedmon, Dewayne",Dewayne Dedmon,0,2013,2019,dewayne_dedmon,0,,,,,Y,01
+990,203521,"Dellavedova, Matthew",Matthew Dellavedova,1,2013,2020,matthew_dellavedova,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00
+1005,1628978,"DiVincenzo, Donte",Donte DiVincenzo,1,2018,2020,donte_divincenzo,1610612749,Milwaukee,Bucks,MIL,bucks,Y,01
+1008,1627767,"Diallo, Cheick",Cheick Diallo,0,2016,2019,cheick_diallo,0,,,,,Y,01
+1009,1628977,"Diallo, Hamidou",Hamidou Diallo,1,2018,2020,hamidou_diallo,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,01
+1020,203476,"Dieng, Gorgui",Gorgui Dieng,1,2013,2020,gorgui_dieng,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,00
+1029,203915,"Dinwiddie, Spencer",Spencer Dinwiddie,1,2014,2020,spencer_dinwiddie,1610612751,Brooklyn,Nets,BKN,nets,Y,01
+1042,1629029,"Doncic, Luka",Luka Doncic,1,2018,2020,luka_don,1610612742,Dallas,Mavericks,DAL,mavericks,Y,00
+1050,1629652,"Dort, Luguentz",Luguentz Dort,1,2019,2020,luguentz_dort,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,01
+1051,1628422,"Dotson, Damyean",Damyean Dotson,1,2017,2020,damyean_dotson,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,01
+1060,1629635,"Doumbouya, Sekou",Sekou Doumbouya,1,2019,2020,sekou_doumbouya,1610612765,Detroit,Pistons,DET,pistons,Y,01
+1067,1628408,"Dozier, PJ",PJ Dozier,1,2017,2020,pj_dozier,1610612743,Denver,Nuggets,DEN,nuggets,Y,01
+1069,201609,"Dragic, Goran",Goran Dragic,1,2008,2020,goran_dragic,1610612748,Miami,Heat,MIA,heat,Y,00
+1081,203083,"Drummond, Andre",Andre Drummond,1,2012,2020,andre_drummond,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00
+1087,201162,"Dudley, Jared",Jared Dudley,1,2007,2020,jared_dudley,1610612747,Los Angeles,Lakers,LAL,lakers,Y,00
+1101,1627739,"Dunn, Kris",Kris Dunn,1,2016,2020,kris_dunn,1610612737,Atlanta,Hawks,ATL,hawks,Y,00
+1105,201142,"Durant, Kevin",Kevin Durant,1,2007,2020,kevin_durant,1610612751,Brooklyn,Nets,BKN,nets,Y,00
+1136,1629035,"Edwards, Carsen",Carsen Edwards,1,2019,2020,carsen_edwards,1610612738,Boston,Celtics,BOS,celtics,Y,01
+1158,1627740,"Ellenson, Henry",Henry Ellenson,1,2016,2020,henry_ellenson,1610612761,Toronto,Raptors,TOR,raptors,Y,01
+1159,201961,"Ellington, Wayne",Wayne Ellington,1,2009,2020,wayne_ellington,1610612765,Detroit,Pistons,DET,pistons,Y,00
+1176,203954,"Embiid, Joel",Joel Embiid,1,2014,2020,joel_embiid,1610612755,Philadelphia,76ers,PHI,sixers,Y,00
+1190,203516,"Ennis III, James",James Ennis III,1,2014,2020,james_ennis iii,1610612753,Orlando,Magic,ORL,magic,Y,01
+1199,1629234,"Eubanks, Drew",Drew Eubanks,1,2018,2020,drew_eubanks,1610612759,San Antonio,Spurs,SAS,spurs,Y,01
+1203,1628980,"Evans, Jacob",Jacob Evans,0,2018,2019,jacob_evans,0,,,,,Y,01
+1213,203957,"Exum, Dante",Dante Exum,1,2014,2020,dante_exum,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00
+1219,1629605,"Fall, Tacko",Tacko Fall,1,2019,2020,tacko_fall,1610612738,Boston,Celtics,BOS,celtics,Y,01
+1230,202324,"Favors, Derrick",Derrick Favors,1,2010,2020,derrick_favors,1610612762,Utah,Jazz,UTA,jazz,Y,00
+1240,1626245,"Felicio, Cristiano",Cristiano Felicio,1,2015,2020,cristiano_felicio,1610612741,Chicago,Bulls,CHI,bulls,Y,01
+1248,1628390,"Ferguson, Terrance",Terrance Ferguson,1,2017,2020,terrance_ferguson,1610612755,Philadelphia,76ers,PHI,sixers,Y,01
+1250,1628981,"Fernando, Bruno",Bruno Fernando,1,2019,2020,bruno_fernando,1610612737,Atlanta,Hawks,ATL,hawks,Y,01
+1255,1627812,"Ferrell, Yogi",Yogi Ferrell,0,2016,2019,yogi_ferrell,0,,,,,Y,01
+1267,1627827,"Finney-Smith, Dorian",Dorian Finney-Smith,1,2016,2020,dorian_finney-smith,1610612742,Dallas,Mavericks,DAL,mavericks,Y,00
+1290,1627854,"Forbes, Bryn",Bryn Forbes,1,2016,2020,bryn_forbes,1610612749,Milwaukee,Bucks,MIL,bucks,Y,01
+1313,203095,"Fournier, Evan",Evan Fournier,1,2012,2020,evan_fournier,1610612753,Orlando,Magic,ORL,magic,Y,00
+1317,1628368,"Fox, De'Aaron",De'Aaron Fox,1,2017,2020,de'aaron_fox,1610612758,Sacramento,Kings,SAC,kings,Y,00
+1329,1626187,"Frazier, Michael",Michael Frazier,0,2018,2019,michael_frazier,0,,,,,Y,01
+1330,204025,"Frazier, Tim",Tim Frazier,0,2014,2019,tim_frazier,0,,,,,Y,01
+1333,1628982,"Frazier Jr., Melvin",Melvin Frazier Jr.,0,2018,2019,melvin_frazier_jr,0,,,,,Y,01
+1354,1628365,"Fultz, Markelle",Markelle Fultz,1,2017,2020,markelle_fultz,1610612753,Orlando,Magic,ORL,magic,Y,00
+1358,1629117,"Gabriel, Wenyen",Wenyen Gabriel,1,2018,2020,wenyen_gabriel,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,01
+1361,1629655,"Gafford, Daniel",Daniel Gafford,1,2019,2020,daniel_gafford,1610612741,Chicago,Bulls,CHI,bulls,Y,01
+1370,201568,"Gallinari, Danilo",Danilo Gallinari,1,2008,2020,danilo_gallinari,1610612737,Atlanta,Hawks,ATL,hawks,Y,00
+1371,204038,"Galloway, Langston",Langston Galloway,1,2014,2020,langston_galloway,1610612756,Phoenix,Suns,PHX,suns,Y,01
+1384,1629636,"Garland, Darius",Darius Garland,1,2019,2020,darius_garland,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00
+1403,201188,"Gasol, Marc",Marc Gasol,1,2008,2020,marc_gasol,1610612747,Los Angeles,Lakers,LAL,lakers,Y,00
+1408,200752,"Gay, Rudy",Rudy Gay,1,2006,2020,rudy_gay,1610612759,San Antonio,Spurs,SAS,spurs,Y,00
+1418,202331,"George, Paul",Paul George,1,2010,2020,paul_george,1610612746,LA,Clippers,LAC,clippers,Y,00
+1432,201959,"Gibson, Taj",Taj Gibson,0,2009,2019,taj_gibson,0,,,,,Y,00
+1436,1628385,"Giles III, Harry",Harry Giles III,1,2017,2020,harry_giles,1610612757,Portland,Trail Blazers,POR,blazers,Y,01
+1437,1628983,"Gilgeous-Alexander, Shai",Shai Gilgeous-Alexander,1,2018,2020,shai_gilgeous-alexander,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,00
+1463,203497,"Gobert, Rudy",Rudy Gobert,1,2013,2020,rudy_gobert,1610612762,Utah,Jazz,UTA,jazz,Y,01
+1475,1629164,"Goodwin, Brandon",Brandon Goodwin,1,2018,2020,brandon_goodwin,1610612737,Atlanta,Hawks,ATL,hawks,Y,01
+1477,203932,"Gordon, Aaron",Aaron Gordon,1,2014,2020,aaron_gordon,1610612753,Orlando,Magic,ORL,magic,Y,00
+1480,201569,"Gordon, Eric",Eric Gordon,1,2008,2020,eric_gordon,1610612745,Houston,Rockets,HOU,rockets,Y,00
+1489,1628984,"Graham, Devonte'",Devonte' Graham,1,2018,2020,devonte_graham,1610612766,Charlotte,Hornets,CHA,hornets,Y,01
+1496,1626203,"Graham, Treveon",Treveon Graham,1,2016,2020,treveon_graham,1610612749,Milwaukee,Bucks,MIL,bucks,Y,01
+1507,203924,"Grant, Jerami",Jerami Grant,1,2014,2020,jerami_grant,1610612765,Detroit,Pistons,DET,pistons,Y,00
+1508,1626170,"Grant, Jerian",Jerian Grant,1,2015,2020,jerian_grant,1610612745,Houston,Rockets,HOU,rockets,Y,01
+1520,1627982,"Gray, Josh",Josh Gray,0,2017,2019,josh_gray,0,,,,,Y,01
+1528,201980,"Green, Danny",Danny Green,1,2009,2020,danny_green,1610612755,Philadelphia,76ers,PHI,sixers,Y,01
+1530,203110,"Green, Draymond",Draymond Green,1,2012,2020,draymond_green,1610612744,Golden State,Warriors,GSW,warriors,Y,00
+1532,101123,"Green, Gerald",Gerald Green,1,2005,2020,gerald_green,1610612745,Houston,Rockets,HOU,rockets,Y,01
+1533,203210,"Green, JaMychal",JaMychal Green,1,2014,2020,jamychal_green,1610612743,Denver,Nuggets,DEN,nuggets,Y,01
+1534,1629750,"Green, Javonte",Javonte Green,1,2019,2020,javonte_green,1610612738,Boston,Celtics,BOS,celtics,Y,00
+1535,201145,"Green, Jeff",Jeff Green,1,2007,2020,jeff_green,1610612751,Brooklyn,Nets,BKN,nets,Y,00
+1564,201933,"Griffin, Blake",Blake Griffin,1,2009,2020,blake_griffin,1610612765,Detroit,Pistons,DET,pistons,Y,00
+1581,1629741,"Guduric, Marko",Marko Guduric,1,2019,2020,marko_guduric,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,01
+1592,1629657,"Guy, Kyle",Kyle Guy,1,2019,2020,kyle_guy,1610612758,Sacramento,Kings,SAC,kings,Y,01
+1595,1629060,"Hachimura, Rui",Rui Hachimura,1,2019,2020,rui_hachimura,1610612764,Washington,Wizards,WAS,wizards,Y,00
+1615,1628985,"Hall, Devon",Devon Hall,0,2019,2019,devon_hall,0,,,,,Y,01
+1616,1629743,"Hall, Donta",Donta Hall,0,2019,2019,donta_hall,0,,,,,Y,01
+1643,1628605,"Hannahs, Dusty",Dusty Hannahs,0,2018,2019,dusty_hannahs,0,,,,,Y,01
+1658,203501,"Hardaway Jr., Tim",Tim Hardaway Jr.,1,2013,2020,tim_hardaway jr.,1610612742,Dallas,Mavericks,DAL,mavericks,Y,01
+1659,201935,"Harden, James",James Harden,1,2009,2020,james_harden,1610612745,Houston,Rockets,HOU,rockets,Y,00
+1665,203090,"Harkless, Maurice",Maurice Harkless,1,2012,2020,maurice_harkless,1610612748,Miami,Heat,MIA,heat,Y,00
+1670,1629607,"Harper, Jared",Jared Harper,1,2019,2020,jared_harper,1610612752,New York,Knicks,NYK,knicks,Y,01
+1675,1626149,"Harrell, Montrezl",Montrezl Harrell,1,2015,2020,montrezl_harrell,1610612747,Los Angeles,Lakers,LAL,lakers,Y,01
+1687,203914,"Harris, Gary",Gary Harris,1,2014,2020,gary_harris,1610612743,Denver,Nuggets,DEN,nuggets,Y,00
+1689,203925,"Harris, Joe",Joe Harris,1,2014,2020,joe_harris,1610612751,Brooklyn,Nets,BKN,nets,Y,01
+1695,202699,"Harris, Tobias",Tobias Harris,1,2011,2020,tobias_harris,1610612755,Philadelphia,76ers,PHI,sixers,Y,00
+1701,1627885,"Harrison, Shaquille",Shaquille Harrison,1,2017,2020,shaquille_harrison,1610612762,Utah,Jazz,UTA,jazz,Y,01
+1703,1628404,"Hart, Josh",Josh Hart,1,2017,2020,josh_hart,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,01
+1704,1628392,"Hartenstein, Isaiah",Isaiah Hartenstein,1,2018,2020,isaiah_hartenstein,1610612743,Denver,Nuggets,DEN,nuggets,Y,01
+1710,2617,"Haslem, Udonis",Udonis Haslem,1,2003,2020,udonis_haslem,1610612748,Miami,Heat,MIA,heat,Y,00
+1731,1629637,"Hayes, Jaxson",Jaxson Hayes,1,2019,2020,jaxson_hayes,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00
+1735,202330,"Hayward, Gordon",Gordon Hayward,1,2010,2020,gordon_hayward,1610612766,Charlotte,Hornets,CHA,hornets,Y,00
+1770,203089,"Henson, John",John Henson,0,2012,2019,john_henson,0,,,,,Y,00
+1774,1629608,"Hernandez, Dewan",Dewan Hernandez,0,2019,2019,dewan_hernandez,0,,,,,Y,01
+1775,1627823,"Hernangomez, Juancho",Juancho Hernangomez,1,2016,2020,juan_hernangomez,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,01
+1776,1626195,"Hernangomez, Willy",Willy Hernangomez,1,2016,2020,willy_hernangomez,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00
+1780,1629639,"Herro, Tyler",Tyler Herro,1,2019,2020,tyler_herro,1610612748,Miami,Heat,MIA,heat,Y,00
+1783,1628987,"Hervey, Kevin",Kevin Hervey,0,2019,2019,kevin_hervey,0,,,,,Y,01
+1788,1626209,"Hezonja, Mario",Mario Hezonja,1,2015,2020,mario_hezonja,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,00
+1794,1627741,"Hield, Buddy",Buddy Hield,1,2016,2020,buddy_hield,1610612758,Sacramento,Kings,SAC,kings,Y,00
+1807,201588,"Hill, George",George Hill,1,2008,2020,george_hill,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,00
+1811,203524,"Hill, Solomon",Solomon Hill,1,2013,2020,solomon_hill,1610612737,Atlanta,Hawks,ATL,hawks,Y,01
+1824,1629658,"Hoard, Jaylen",Jaylen Hoard,0,2019,2019,jalen_hoard,0,,,,,Y,01
+1836,1628988,"Holiday, Aaron",Aaron Holiday,1,2018,2020,aaron_holiday,1610612754,Indiana,Pacers,IND,pacers,Y,00
+1837,201950,"Holiday, Jrue",Jrue Holiday,1,2009,2020,jrue_holiday,1610612749,Milwaukee,Bucks,MIL,bucks,Y,00
+1838,203200,"Holiday, Justin",Justin Holiday,1,2012,2020,justin_holiday,1610612754,Indiana,Pacers,IND,pacers,Y,01
+1846,1626178,"Hollis-Jefferson, Rondae",Rondae Hollis-Jefferson,1,2015,2020,rondae_hollis-jefferson,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,00
+1847,1626158,"Holmes, Richaun",Richaun Holmes,1,2015,2020,richaun_holmes,1610612758,Sacramento,Kings,SAC,kings,Y,01
+1858,203918,"Hood, Rodney",Rodney Hood,1,2014,2020,rodney_hood,1610612757,Portland,Trail Blazers,POR,blazers,Y,00
+1866,201143,"Horford, Al",Al Horford,1,2007,2020,al_horford,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,00
+1873,1629659,"Horton-Tucker, Talen",Talen Horton-Tucker,1,2019,2020,talen_horton-tucker,1610612747,Los Angeles,Lakers,LAL,lakers,Y,01
+1877,1627863,"House Jr., Danuel",Danuel House Jr.,1,2016,2020,danuel_house,1610612745,Houston,Rockets,HOU,rockets,Y,01
+1882,2730,"Howard, Dwight",Dwight Howard,1,2004,2020,dwight_howard,1610612755,Philadelphia,76ers,PHI,sixers,Y,00
+1890,1629739,"Howard, William",William Howard,0,2019,2019,william_howard,0,,,,,Y,01
+1898,1628989,"Huerter, Kevin",Kevin Huerter,1,2018,2020,kevin_huerter,1610612737,Atlanta,Hawks,ATL,hawks,Y,00
+1917,1629631,"Hunter, De'Andre",De'Andre Hunter,1,2019,2020,deandre_hunter,1610612737,Atlanta,Hawks,ATL,hawks,Y,00
+1929,1628990,"Hutchison, Chandler",Chandler Hutchison,1,2018,2020,chandler_hutchison,1610612741,Chicago,Bulls,CHI,bulls,Y,01
+1933,201586,"Ibaka, Serge",Serge Ibaka,1,2009,2020,serge_ibaka,1610612746,LA,Clippers,LAC,clippers,Y,00
+1934,2738,"Iguodala, Andre",Andre Iguodala,1,2004,2020,andre_iguodala,1610612748,Miami,Heat,MIA,heat,Y,00
+1937,101141,"Ilyasova, Ersan",Ersan Ilyasova,0,2006,2019,ersan_ilyasova,0,,,,,Y,01
+1940,204060,"Ingles, Joe",Joe Ingles,1,2014,2020,joe_ingles,1610612762,Utah,Jazz,UTA,jazz,Y,00
+1943,1627742,"Ingram, Brandon",Brandon Ingram,1,2016,2020,brandon_ingram,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00
+1946,202681,"Irving, Kyrie",Kyrie Irving,1,2011,2020,kyrie_irving,1610612751,Brooklyn,Nets,BKN,nets,Y,00
+1947,1628371,"Isaac, Jonathan",Jonathan Isaac,1,2017,2020,jonathan_isaac,1610612753,Orlando,Magic,ORL,magic,Y,01
+1952,1628411,"Iwundu, Wes",Wes Iwundu,1,2017,2020,wes_iwundu,1610612742,Dallas,Mavericks,DAL,mavericks,Y,01
+1960,1628402,"Jackson, Frank",Frank Jackson,1,2017,2020,frank_jackson,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,01
+1965,1628367,"Jackson, Josh",Josh Jackson,1,2017,2020,josh_jackson,1610612765,Detroit,Pistons,DET,pistons,Y,01
+1966,1628382,"Jackson, Justin",Justin Jackson,1,2017,2020,justin_jackson,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,01
+1977,202704,"Jackson, Reggie",Reggie Jackson,1,2011,2020,reggie_jackson,1610612746,LA,Clippers,LAC,clippers,Y,01
+1983,1628991,"Jackson Jr., Jaren",Jaren Jackson Jr.,1,2018,2020,jaren_jackson_jr,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,00
+1994,1629713,"James, Justin",Justin James,1,2019,2020,justin_james,1610612758,Sacramento,Kings,SAC,kings,Y,01
+1995,2544,"James, LeBron",LeBron James,1,2003,2020,lebron_james,1610612747,Los Angeles,Lakers,LAL,lakers,Y,00
+2012,1628518,"Jefferson, Amile",Amile Jefferson,1,2017,2020,amile_jefferson,1610612738,Boston,Celtics,BOS,celtics,Y,01
+2016,1629610,"Jeffries, DaQuan",DaQuan Jeffries,1,2019,2020,daquan_jeffries,1610612758,Sacramento,Kings,SAC,kings,Y,01
+2026,1629660,"Jerome, Ty",Ty Jerome,1,2019,2020,ty_jerome,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,01
+2033,1628993,"Johnson, Alize",Alize Johnson,1,2018,2020,alize_johnson,1610612761,Toronto,Raptors,TOR,raptors,Y,01
+2040,1629168,"Johnson, BJ",BJ Johnson,1,2018,2020,bj_johnson,1610612748,Miami,Heat,MIA,heat,Y,01
+2043,1629661,"Johnson, Cameron",Cameron Johnson,1,2019,2020,cameron_johnson,1610612756,Phoenix,Suns,PHX,suns,Y,00
+2069,201949,"Johnson, James",James Johnson,1,2009,2020,james_johnson,1610612742,Dallas,Mavericks,DAL,mavericks,Y,01
+2073,1629640,"Johnson, Keldon",Keldon Johnson,1,2019,2020,keldon_johnson,1610612759,San Antonio,Spurs,SAS,spurs,Y,01
+2093,1626169,"Johnson, Stanley",Stanley Johnson,1,2015,2020,stanley_johnson,1610612761,Toronto,Raptors,TOR,raptors,Y,01
+2097,204020,"Johnson, Tyler",Tyler Johnson,1,2014,2020,tyler_johnson,1610612751,Brooklyn,Nets,BKN,nets,Y,01
+2104,203999,"Jokic, Nikola",Nikola Jokic,1,2015,2020,nikola_jokic,1610612743,Denver,Nuggets,DEN,nuggets,Y,00
+2117,1627745,"Jones, Damian",Damian Jones,1,2016,2020,damian_jones,1610612756,Phoenix,Suns,PHX,suns,Y,01
+2153,1626145,"Jones, Tyus",Tyus Jones,1,2015,2020,tyus_jones,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,01
+2160,1627884,"Jones Jr., Derrick",Derrick Jones Jr.,1,2016,2020,derrick_jones jr.,1610612757,Portland,Trail Blazers,POR,blazers,Y,01
+2162,201599,"Jordan, DeAndre",DeAndre Jordan,1,2008,2020,deandre_jordan,1610612751,Brooklyn,Nets,BKN,nets,Y,00
+2173,202709,"Joseph, Cory",Cory Joseph,1,2011,2020,cory_joseph,1610612758,Sacramento,Kings,SAC,kings,Y,01
+2178,1629662,"Kabengele, Mfiondu",Mfiondu Kabengele,1,2019,2020,mfiondu_kabengele,1610612746,LA,Clippers,LAC,clippers,Y,01
+2183,1626163,"Kaminsky, Frank",Frank Kaminsky,1,2015,2020,frank_kaminsky,1610612758,Sacramento,Kings,SAC,kings,Y,00
+2184,202683,"Kanter, Enes",Enes Kanter,1,2011,2020,enes_kanter,1610612757,Portland,Trail Blazers,POR,blazers,Y,00
+2214,1628379,"Kennard, Luke",Luke Kennard,1,2017,2020,luke_kennard,1610612746,LA,Clippers,LAC,clippers,Y,01
+2231,1629742,"Kidd, Stanton",Stanton Kidd,0,2019,2019,stanton_kidd,0,,,,,Y,00
+2233,203077,"Kidd-Gilchrist, Michael",Michael Kidd-Gilchrist,1,2012,2020,michael_kidd-gilchrist,1610612752,New York,Knicks,NYK,knicks,Y,00
+2253,1629663,"King, Louis",Louis King,1,2019,2020,louis_king,1610612765,Detroit,Pistons,DET,pistons,Y,01
+2268,1628467,"Kleber, Maxi",Maxi Kleber,1,2017,2020,maxi_kleber,1610612742,Dallas,Mavericks,DAL,mavericks,Y,00
+2277,202688,"Knight, Brandon",Brandon Knight,0,2011,2019,brandon_knight,0,,,,,Y,01
+2287,1628995,"Knox II, Kevin",Kevin Knox II,1,2018,2020,kevin_knox,1610612752,New York,Knicks,NYK,knicks,Y,00
+2293,1629723,"Konchar, John",John Konchar,1,2019,2020,john_konchar,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,01
+2296,1627788,"Korkmaz, Furkan",Furkan Korkmaz,1,2017,2020,furkan_korkmaz,1610612755,Philadelphia,76ers,PHI,sixers,Y,01
+2298,1628436,"Kornet, Luke",Luke Kornet,1,2017,2020,luke_kornet,1610612741,Chicago,Bulls,CHI,bulls,Y,01
+2300,2594,"Korver, Kyle",Kyle Korver,0,2003,2019,kyle_korver,0,,,,,Y,00
+2328,1629066,"Kurucs, Rodions",Rodions Kurucs,1,2018,2020,rodions_kurucs,1610612751,Brooklyn,Nets,BKN,nets,Y,01
+2331,1628398,"Kuzma, Kyle",Kyle Kuzma,1,2017,2020,kyle_kuzma,1610612747,Los Angeles,Lakers,LAL,lakers,Y,00
+2339,203897,"LaVine, Zach",Zach LaVine,1,2014,2020,zach_lavine,1610612741,Chicago,Bulls,CHI,bulls,Y,00
+2340,1627746,"Labissiere, Skal",Skal Labissiere,1,2016,2020,skal_labissiere,1610612752,New York,Knicks,NYK,knicks,Y,01
+2349,203087,"Lamb, Jeremy",Jeremy Lamb,1,2012,2020,jeremy_lamb,1610612754,Indiana,Pacers,IND,pacers,Y,01
+2364,1629641,"Langford, Romeo",Romeo Langford,1,2019,2020,romeo_langford,1610612738,Boston,Celtics,BOS,celtics,Y,01
+2381,1629724,"Law, Vic",Vic Law,0,2019,2019,vic_law,0,,,,,Y,01
+2386,1627774,"Layman, Jake",Jake Layman,1,2016,2020,jake_layman,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,01
+2388,1627747,"LeVert, Caris",Caris LeVert,1,2016,2020,caris_levert,1610612751,Brooklyn,Nets,BKN,nets,Y,00
+2389,1628388,"Leaf, TJ",TJ Leaf,1,2017,2020,tj_leaf,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,01
+2395,1629665,"Lecque, Jalen",Jalen Lecque,1,2019,2020,jalen_lecque,1610612754,Indiana,Pacers,IND,pacers,Y,01
+2399,201584,"Lee, Courtney",Courtney Lee,1,2008,2020,courtney_lee,1610612742,Dallas,Mavericks,DAL,mavericks,Y,01
+2400,1627814,"Lee, Damion",Damion Lee,1,2017,2020,damion_lee,1610612744,Golden State,Warriors,GSW,warriors,Y,01
+2417,203458,"Len, Alex",Alex Len,1,2013,2020,alex_len,1610612761,Toronto,Raptors,TOR,raptors,Y,00
+2421,202695,"Leonard, Kawhi",Kawhi Leonard,1,2011,2020,kawhi_leonard,1610612746,LA,Clippers,LAC,clippers,Y,00
+2422,203086,"Leonard, Meyers",Meyers Leonard,1,2012,2020,meyers_leonard,1610612748,Miami,Heat,MIA,heat,Y,00
+2446,203081,"Lillard, Damian",Damian Lillard,1,2012,2020,damian_lillard,1610612757,Portland,Trail Blazers,POR,blazers,Y,00
+2450,1629642,"Little, Nassir",Nassir Little,1,2019,2020,nassir_little,1610612757,Portland,Trail Blazers,POR,blazers,Y,00
+2473,1626172,"Looney, Kevon",Kevon Looney,1,2015,2020,kevon_looney,1610612744,Golden State,Warriors,GSW,warriors,Y,01
+2474,201572,"Lopez, Brook",Brook Lopez,1,2008,2020,brook_lopez,1610612749,Milwaukee,Bucks,MIL,bucks,Y,00
+2477,201577,"Lopez, Robin",Robin Lopez,1,2008,2020,robin_lopez,1610612764,Washington,Wizards,WAS,wizards,Y,00
+2483,201567,"Love, Kevin",Kevin Love,1,2008,2020,kevin_love,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00
+2488,200768,"Lowry, Kyle",Kyle Lowry,1,2006,2020,kyle_lowry,1610612761,Toronto,Raptors,TOR,raptors,Y,00
+2502,1627789,"Luwawu-Cabarrot, Timothe",Timothe Luwawu-Cabarrot,1,2016,2020,timothe_luwawu-cabarrot,1610612751,Brooklyn,Nets,BKN,nets,Y,01
+2504,1626168,"Lyles, Trey",Trey Lyles,1,2015,2020,trey_lyles,1610612759,San Antonio,Spurs,SAS,spurs,Y,00
+2523,1629133,"Macon, Daryl",Daryl Macon,0,2018,2019,daryl_macon,0,,,,,Y,01
+2525,1629122,"Macura, J.P.",J.P. Macura,0,2018,2019,jp_macura,0,,,,,Y,01
+2532,203705,"Magette, Josh",Josh Magette,0,2017,2019,josh_magette,0,,,,,Y,01
+2537,101133,"Mahinmi, Ian",Ian Mahinmi,0,2007,2019,ian_mahinmi,0,,,,,Y,01
+2543,1627748,"Maker, Thon",Thon Maker,1,2016,2020,thon_maker,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00
+2556,1629611,"Mann, Terance",Terance Mann,1,2019,2020,terance_mann,1610612746,LA,Clippers,LAC,clippers,Y,01
+2572,1626246,"Marjanovic, Boban",Boban Marjanovic,1,2015,2020,boban_marjanovic,1610612742,Dallas,Mavericks,DAL,mavericks,Y,01
+2573,1628374,"Markkanen, Lauri",Lauri Markkanen,1,2017,2020,lauri_markkanen,1610612741,Chicago,Bulls,CHI,bulls,Y,00
+2589,1628997,"Martin, Caleb",Caleb Martin,1,2019,2020,caleb_martin,1610612766,Charlotte,Hornets,CHA,hornets,Y,01
+2591,1628998,"Martin, Cody",Cody Martin,1,2019,2020,cody_martin,1610612766,Charlotte,Hornets,CHA,hornets,Y,01
+2599,1629725,"Martin, Jeremiah",Jeremiah Martin,1,2019,2020,jeremiah_martin,1610612751,Brooklyn,Nets,BKN,nets,Y,01
+2600,1629103,"Martin, Kelan",Kelan Martin,1,2019,2020,kelan_martin,1610612754,Indiana,Pacers,IND,pacers,Y,01
+2613,1628412,"Mason, Frank",Frank Mason,0,2017,2019,frank_mason,0,,,,,Y,01
+2618,1629726,"Mathews, Garrison",Garrison Mathews,1,2019,2020,garrison_mathews,1610612764,Washington,Wizards,WAS,wizards,Y,01
+2623,202083,"Matthews, Wesley",Wesley Matthews,1,2009,2020,wesley_matthews,1610612747,Los Angeles,Lakers,LAL,lakers,Y,00
+2643,201601,"Mbah a Moute, Luc",Luc Mbah a Moute,0,2008,2019,luc_mbah a moute,0,,,,,Y,00
+2662,1627775,"McCaw, Patrick",Patrick McCaw,1,2016,2020,patrick_mccaw,1610612761,Toronto,Raptors,TOR,raptors,Y,01
+2668,203468,"McCollum, CJ",CJ McCollum,1,2013,2020,cj_mccollum,1610612757,Portland,Trail Blazers,POR,blazers,Y,01
+2671,204456,"McConnell, T.J.",T.J. McConnell,1,2015,2020,t.j._mcconnell,1610612754,Indiana,Pacers,IND,pacers,Y,00
+2685,1629667,"McDaniels, Jalen",Jalen McDaniels,1,2019,2020,jalen_mcdaniels,1610612766,Charlotte,Hornets,CHA,hornets,Y,01
+2688,203926,"McDermott, Doug",Doug McDermott,1,2014,2020,doug_mcdermott,1610612754,Indiana,Pacers,IND,pacers,Y,00
+2699,201580,"McGee, JaVale",JaVale McGee,1,2008,2020,javale_mcgee,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00
+2706,203585,"McGruder, Rodney",Rodney McGruder,1,2016,2020,rodney_mcgruder,1610612765,Detroit,Pistons,DET,pistons,Y,01
+2724,1628035,"McKinnie, Alfonzo",Alfonzo McKinnie,1,2017,2020,alfonzo_mckinnie,1610612747,Los Angeles,Lakers,LAL,lakers,Y,01
+2725,1629162,"McLaughlin, Jordan",Jordan McLaughlin,0,2019,2019,jordan_mclaughlin,0,,,,,Y,01
+2726,203463,"McLemore, Ben",Ben McLemore,1,2013,2020,ben_mclemore,1610612745,Houston,Rockets,HOU,rockets,Y,01
+2747,203895,"McRae, Jordan",Jordan McRae,0,2015,2019,jordan_mcrae,0,,,,,Y,01
+2764,1629740,"Melli, Nicolo",Nicolo Melli,1,2019,2020,nicolo_melli,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00
+2766,1629001,"Melton, De'Anthony",De'Anthony Melton,1,2018,2020,deanthony_melton,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,01
+2778,1629002,"Metu, Chimezie",Chimezie Metu,1,2018,2020,chimezie_metu,1610612758,Sacramento,Kings,SAC,kings,Y,01
+2784,203114,"Middleton, Khris",Khris Middleton,1,2012,2020,khris_middleton,1610612749,Milwaukee,Bucks,MIL,bucks,Y,01
+2787,1628450,"Mika, Eric",Eric Mika,0,2019,2019,eric_mika,0,,,,,Y,01
+2794,101139,"Miles, CJ",CJ Miles,0,2005,2019,cj_miles,0,,,,,Y,01
+2805,203121,"Miller, Darius",Darius Miller,1,2012,2020,darius_miller,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,01
+2810,1626259,"Miller, Malcolm",Malcolm Miller,0,2017,2019,malcolm_miller,0,,,,,Y,01
+2818,201988,"Mills, Patty",Patty Mills,1,2009,2020,patty_mills,1610612759,San Antonio,Spurs,SAS,spurs,Y,01
+2821,200794,"Millsap, Paul",Paul Millsap,1,2006,2020,paul_millsap,1610612743,Denver,Nuggets,DEN,nuggets,Y,00
+2822,1629003,"Milton, Shake",Shake Milton,1,2018,2020,shake_milton,1610612755,Philadelphia,76ers,PHI,sixers,Y,01
+2831,1628378,"Mitchell, Donovan",Donovan Mitchell,1,2017,2020,donovan_mitchell,1610612762,Utah,Jazz,UTA,jazz,Y,00
+2838,1628513,"Mitrou-Long, Naz",Naz Mitrou-Long,1,2017,2020,naz_mitrou-long,1610612754,Indiana,Pacers,IND,pacers,Y,01
+2848,1629690,"Mokoka, Adam",Adam Mokoka,1,2019,2020,adam_mokoka,1610612741,Chicago,Bulls,CHI,bulls,Y,01
+2854,1628370,"Monk, Malik",Malik Monk,1,2017,2020,malik_monk,1610612766,Charlotte,Hornets,CHA,hornets,Y,01
+2864,1629760,"Mooney, Matt",Matt Mooney,1,2019,2020,matt_mooney,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,01
+2867,202734,"Moore, E'Twaun",E'Twaun Moore,1,2011,2020,e'twaun_moore,1610612756,Phoenix,Suns,PHX,suns,Y,00
+2875,1629630,"Morant, Ja",Ja Morant,1,2019,2020,ja_morant,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,00
+2879,1629752,"Morgan, Juwan",Juwan Morgan,1,2019,2020,juwan_morgan,1610612762,Utah,Jazz,UTA,jazz,Y,01
+2887,202693,"Morris, Markieff",Markieff Morris,1,2011,2020,markieff_morris,1610612747,Los Angeles,Lakers,LAL,lakers,Y,00
+2889,1628420,"Morris, Monte",Monte Morris,1,2017,2020,monte_morris,1610612743,Denver,Nuggets,DEN,nuggets,Y,01
+2892,202694,"Morris Sr., Marcus",Marcus Morris Sr.,1,2011,2020,marcus_morris,1610612746,LA,Clippers,LAC,clippers,Y,01
+2904,1628405,"Motley, Johnathan",Johnathan Motley,1,2017,2020,johnathan_motley,1610612756,Phoenix,Suns,PHX,suns,Y,01
+2910,1626144,"Mudiay, Emmanuel",Emmanuel Mudiay,0,2015,2019,emmanuel_mudiay,0,,,,,Y,00
+2913,1628539,"Mulder, Mychal",Mychal Mulder,1,2019,2020,mychal_mulder,1610612744,Golden State,Warriors,GSW,warriors,Y,01
+2936,1627749,"Murray, Dejounte",Dejounte Murray,1,2016,2020,dejounte_murray,1610612759,San Antonio,Spurs,SAS,spurs,Y,01
+2938,1627750,"Murray, Jamal",Jamal Murray,1,2016,2020,jamal_murray,1610612743,Denver,Nuggets,DEN,nuggets,Y,00
+2944,1629058,"Musa, Dzanan",Dzanan Musa,1,2018,2020,dzanan_musa,1610612765,Detroit,Pistons,DET,pistons,Y,01
+2945,203488,"Muscala, Mike",Mike Muscala,1,2013,2020,mike_muscala,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,01
+2951,1629004,"Mykhailiuk, Svi",Svi Mykhailiuk,1,2018,2020,sviatoslav_mykhailiuk,1610612765,Detroit,Pistons,DET,pistons,Y,01
+2957,1627846,"Nader, Abdel",Abdel Nader,1,2017,2020,abdel_nader,1610612756,Phoenix,Suns,PHX,suns,Y,01
+2963,1626204,"Nance Jr., Larry",Larry Nance Jr.,1,2015,2020,larry_nance jr.,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00
+2964,203894,"Napier, Shabazz",Shabazz Napier,0,2014,2019,shabazz_napier,0,,,,,Y,01
+2995,203526,"Neto, Raul",Raul Neto,1,2015,2020,raul_neto,1610612764,Washington,Wizards,WAS,wizards,Y,01
+3004,1629005,"Newman, Malik",Malik Newman,0,2019,2019,malik_newman,0,,,,,Y,01
+3006,1627777,"Niang, Georges",Georges Niang,1,2016,2020,georges_niang,1610612762,Utah,Jazz,UTA,jazz,Y,01
+3019,201149,"Noah, Joakim",Joakim Noah,0,2007,2019,joakim_noah,0,,,,,Y,01
+3023,203457,"Noel, Nerlens",Nerlens Noel,1,2013,2020,nerlens_noel,1610612752,New York,Knicks,NYK,knicks,Y,00
+3036,1629668,"Norvell Jr., Zach",Zach Norvell Jr.,1,2019,2020,zach_norvell_jr,1610612741,Chicago,Bulls,CHI,bulls,Y,01
+3042,1629669,"Nowell, Jaylen",Jaylen Nowell,1,2019,2020,jaylen_nowell,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,01
+3045,1628373,"Ntilikina, Frank",Frank Ntilikina,1,2017,2020,frank_ntilikina,1610612752,New York,Knicks,NYK,knicks,Y,00
+3046,1629134,"Nunn, Kendrick",Kendrick Nunn,1,2018,2020,kendrick_nunn,1610612748,Miami,Heat,MIA,heat,Y,01
+3048,203994,"Nurkic, Jusuf",Jusuf Nurkic,1,2014,2020,jusuf_nurkic,1610612757,Portland,Trail Blazers,POR,blazers,Y,00
+3050,1628021,"Nwaba, David",David Nwaba,1,2016,2020,david_nwaba,1610612745,Houston,Rockets,HOU,rockets,Y,01
+3070,1626220,"O'Neale, Royce",Royce O'Neale,1,2017,2020,royce_o'neale,1610612762,Utah,Jazz,UTA,jazz,Y,01
+3072,203124,"O'Quinn, Kyle",Kyle O'Quinn,0,2012,2019,kyle_o'quinn,0,,,,,Y,00
+3086,1628400,"Ojeleye, Semi",Semi Ojeleye,1,2017,2020,semi_ojeleye,1610612738,Boston,Celtics,BOS,celtics,Y,00
+3088,1626143,"Okafor, Jahlil",Jahlil Okafor,1,2015,2020,jahlil_okafor,1610612765,Detroit,Pistons,DET,pistons,Y,00
+3090,1629059,"Okobo, Elie",Elie Okobo,0,2018,2019,elie_okobo,0,,,,,Y,01
+3091,1629006,"Okogie, Josh",Josh Okogie,1,2018,2020,josh_okogie,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,00
+3094,1629644,"Okpala, KZ",KZ Okpala,1,2019,2020,kz_okpala,1610612748,Miami,Heat,MIA,heat,Y,01
+3096,203506,"Oladipo, Victor",Victor Oladipo,1,2013,2020,victor_oladipo,1610612754,Indiana,Pacers,IND,pacers,Y,00
+3110,203482,"Olynyk, Kelly",Kelly Olynyk,1,2013,2020,kelly_olynyk,1610612748,Miami,Heat,MIA,heat,Y,00
+3111,1629671,"Oni, Miye",Miye Oni,1,2019,2020,miye_oni,1610612762,Utah,Jazz,UTA,jazz,Y,01
+3120,1626224,"Osman, Cedi",Cedi Osman,1,2017,2020,cedi_osman,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,01
+3127,1626162,"Oubre Jr., Kelly",Kelly Oubre Jr.,1,2015,2020,kelly_oubre jr.,1610612744,Golden State,Warriors,GSW,warriors,Y,00
+3140,1629745,"Owens, Tariq",Tariq Owens,0,2019,2019,tariq_owens,0,,,,,Y,01
+3160,202951,"Pargo, Jeremy",Jeremy Pargo,0,2011,2019,jeremy_pargo,0,,,,,Y,01
+3165,203953,"Parker, Jabari",Jabari Parker,1,2014,2020,jabari_parker,1610612758,Sacramento,Kings,SAC,kings,Y,00
+3174,202718,"Parsons, Chandler",Chandler Parsons,0,2011,2019,chandler_parsons,0,,,,,Y,00
+3175,1629672,"Paschall, Eric",Eric Paschall,1,2019,2020,eric_paschall,1610612744,Golden State,Warriors,GSW,warriors,Y,00
+3176,1628394,"Pasecniks, Anzejs",Anzejs Pasecniks,1,2019,2020,anzejs_pasecniks,1610612764,Washington,Wizards,WAS,wizards,Y,01
+3185,202335,"Patterson, Patrick",Patrick Patterson,1,2010,2020,patrick_patterson,1610612746,LA,Clippers,LAC,clippers,Y,01
+3190,1628383,"Patton, Justin",Justin Patton,1,2017,2020,justin_patton,1610612749,Milwaukee,Bucks,MIL,bucks,Y,01
+3192,101108,"Paul, Chris",Chris Paul,1,2005,2020,chris_paul,1610612756,Phoenix,Suns,PHX,suns,Y,00
+3202,1626166,"Payne, Cameron",Cameron Payne,1,2015,2020,cameron_payne,1610612756,Phoenix,Suns,PHX,suns,Y,01
+3205,203901,"Payton, Elfrid",Elfrid Payton,1,2014,2020,elfrid_payton,1610612752,New York,Knicks,NYK,knicks,Y,00
+3208,1627780,"Payton II, Gary",Gary Payton II,0,2016,2019,gary_payton ii,0,,,,,Y,01
+3216,203658,"Pelle, Norvel",Norvel Pelle,0,2019,2019,norvel_pelle,0,,,,,Y,01
+3265,1629033,"Pinson, Theo",Theo Pinson,1,2018,2020,theo_pinson,1610612752,New York,Knicks,NYK,knicks,Y,01
+3274,203486,"Plumlee, Mason",Mason Plumlee,1,2013,2020,mason_plumlee,1610612765,Detroit,Pistons,DET,pistons,Y,00
+3278,1627751,"Poeltl, Jakob",Jakob Poeltl,1,2016,2020,jakob_poeltl,1610612759,San Antonio,Spurs,SAS,spurs,Y,01
+3279,1629738,"Poirier, Vincent",Vincent Poirier,1,2019,2020,vincent_poirier,1610612755,Philadelphia,76ers,PHI,sixers,Y,01
+3288,1629044,"Ponds, Shamorie",Shamorie Ponds,0,2019,2019,shamorie_ponds,0,,,,,Y,01
+3289,1629673,"Poole, Jordan",Jordan Poole,1,2019,2020,jordan_poole,1610612744,Golden State,Warriors,GSW,warriors,Y,01
+3296,1629007,"Porter, Jontay",Jontay Porter,1,2019,2020,jontay_porter,1610612763,Memphis,Grizzlies,MEM,grizzlies,N,00
+3299,1629645,"Porter Jr., Kevin",Kevin Porter Jr.,1,2019,2020,kevin_porter_jr,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00
+3300,1629008,"Porter Jr., Michael",Michael Porter Jr.,1,2018,2020,michael_porter_jr,1610612743,Denver,Nuggets,DEN,nuggets,Y,00
+3301,203490,"Porter Jr., Otto",Otto Porter Jr.,1,2013,2020,otto_porter jr.,1610612741,Chicago,Bulls,CHI,bulls,Y,00
+3302,1626171,"Portis, Bobby",Bobby Portis,1,2015,2020,bobby_portis,1610612749,Milwaukee,Bucks,MIL,bucks,Y,01
+3304,204001,"Porzingis, Kristaps",Kristaps Porzingis,1,2015,2020,kristaps_porzingis,1610612742,Dallas,Mavericks,DAL,mavericks,Y,00
+3309,203939,"Powell, Dwight",Dwight Powell,1,2014,2020,dwight_powell,1610612742,Dallas,Mavericks,DAL,mavericks,Y,01
+3313,1626181,"Powell, Norman",Norman Powell,1,2015,2020,norman_powell,1610612761,Toronto,Raptors,TOR,raptors,Y,01
+3329,1627752,"Prince, Taurean",Taurean Prince,1,2016,2020,taurean_prince,1610612751,Brooklyn,Nets,BKN,nets,Y,01
+3373,1626184,"Randle, Chasson",Chasson Randle,0,2016,2019,chasson_randle,0,,,,,Y,01
+3374,203944,"Randle, Julius",Julius Randle,1,2014,2020,julius_randle,1610612752,New York,Knicks,NYK,knicks,Y,00
+3398,1629729,"Reaves, Josh",Josh Reaves,0,2019,2019,josh_reaves,0,,,,,Y,01
+3402,1629629,"Reddish, Cam",Cam Reddish,1,2019,2020,cameron_reddish,1610612737,Atlanta,Hawks,ATL,hawks,Y,00
+3404,200755,"Redick, JJ",JJ Redick,1,2006,2020,jj_redick,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00
+3421,1629675,"Reid, Naz",Naz Reid,1,2019,2020,naz_reid,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,01
+3433,1629244,"Reynolds, Cameron",Cameron Reynolds,1,2018,2020,cameron_reynolds,1610612759,San Antonio,Spurs,SAS,spurs,Y,01
+3445,1626196,"Richardson, Josh",Josh Richardson,1,2015,2020,josh_richardson,1610612742,Dallas,Mavericks,DAL,mavericks,Y,01
+3471,203085,"Rivers, Austin",Austin Rivers,1,2012,2020,austin_rivers,1610612752,New York,Knicks,NYK,knicks,Y,00
+3475,203460,"Roberson, Andre",Andre Roberson,0,2013,2019,andre_roberson,0,,,,,Y,01
+3498,1629130,"Robinson, Duncan",Duncan Robinson,1,2018,2020,duncan_robinson,1610612748,Miami,Heat,MIA,heat,Y,01
+3505,1629010,"Robinson, Jerome",Jerome Robinson,1,2018,2020,jerome_robinson,1610612764,Washington,Wizards,WAS,wizards,Y,01
+3506,1629620,"Robinson, Justin",Justin Robinson,0,2019,2019,justin_robinson,0,,,,,Y,01
+3508,1629011,"Robinson, Mitchell",Mitchell Robinson,1,2018,2020,mitchell_robinson,1610612752,New York,Knicks,NYK,knicks,Y,00
+3515,203922,"Robinson III, Glenn",Glenn Robinson III,1,2014,2020,glenn_robinson iii,1610612758,Sacramento,Kings,SAC,kings,Y,01
+3518,1629676,"Roby, Isaiah",Isaiah Roby,1,2019,2020,roby_isaiah,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,01
+3539,200765,"Rondo, Rajon",Rajon Rondo,1,2006,2020,rajon_rondo,1610612737,Atlanta,Hawks,ATL,hawks,Y,00
+3541,201565,"Rose, Derrick",Derrick Rose,1,2008,2020,derrick_rose,1610612765,Detroit,Pistons,DET,pistons,Y,00
+3550,203082,"Ross, Terrence",Terrence Ross,1,2012,2020,terrence_ross,1610612753,Orlando,Magic,ORL,magic,Y,00
+3566,1626179,"Rozier, Terry",Terry Rozier,1,2015,2020,terry_rozier,1610612766,Charlotte,Hornets,CHA,hornets,Y,01
+3567,201937,"Rubio, Ricky",Ricky Rubio,1,2011,2020,ricky_rubio,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,00
+3587,1626156,"Russell, D'Angelo",D'Angelo Russell,1,2015,2020,d'angelo_russell,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,00
+3592,1627734,"Sabonis, Domantas",Domantas Sabonis,1,2016,2020,domantas_sabonis,1610612754,Indiana,Pacers,IND,pacers,Y,00
+3600,1629677,"Samanic, Luka",Luka Samanic,1,2019,2020,luka_samanic,1610612759,San Antonio,Spurs,SAS,spurs,Y,01
+3603,203960,"Sampson, JaKarr",JaKarr Sampson,1,2014,2020,jakarr_sampson,1610612754,Indiana,Pacers,IND,pacers,Y,01
+3617,203967,"Saric, Dario",Dario Saric,1,2016,2020,dario_saric,1610612756,Phoenix,Suns,PHX,suns,Y,00
+3620,203107,"Satoransky, Tomas",Tomas Satoransky,1,2016,2020,tomas_satoransky,1610612741,Chicago,Bulls,CHI,bulls,Y,00
+3651,1629678,"Schofield, Admiral",Admiral Schofield,1,2019,2020,admiral_schofield,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,01
+3655,203471,"Schroder, Dennis",Dennis Schroder,1,2013,2020,dennis_schroder,1610612747,Los Angeles,Lakers,LAL,lakers,Y,01
+3667,203118,"Scott, Mike",Mike Scott,1,2012,2020,mike_scott,1610612755,Philadelphia,76ers,PHI,sixers,Y,01
+3678,200757,"Sefolosha, Thabo",Thabo Sefolosha,0,2006,2019,thabo_sefolosha,0,,,,,Y,00
+3695,1629012,"Sexton, Collin",Collin Sexton,1,2018,2020,collin_sexton,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,00
+3702,1629013,"Shamet, Landry",Landry Shamet,1,2018,2020,landry_shamet,1610612751,Brooklyn,Nets,BKN,nets,Y,00
+3713,1629621,"Shayok, Marial",Marial Shayok,0,2019,2019,marial_shayok,0,,,,,Y,01
+3731,202697,"Shumpert, Iman",Iman Shumpert,0,2011,2019,iman_shumpert,0,,,,,Y,00
+3733,1627783,"Siakam, Pascal",Pascal Siakam,1,2016,2020,pascal_siakam,1610612761,Toronto,Raptors,TOR,raptors,Y,01
+3746,1629735,"Silva, Chris",Chris Silva,1,2019,2020,chris_silva,1610612748,Miami,Heat,MIA,heat,Y,01
+3748,1627732,"Simmons, Ben",Ben Simmons,1,2016,2020,ben_simmons,1610612755,Philadelphia,76ers,PHI,sixers,Y,00
+3754,1628424,"Simmons, Kobi",Kobi Simmons,0,2017,2019,kobi_simmons,0,,,,,Y,01
+3757,1629014,"Simons, Anfernee",Anfernee Simons,1,2018,2020,anfernee_simons,1610612757,Portland,Trail Blazers,POR,blazers,Y,01
+3790,1629346,"Smailagic, Alen",Alen Smailagic,1,2019,2020,alen_smailagic,1610612744,Golden State,Warriors,GSW,warriors,Y,01
+3792,203935,"Smart, Marcus",Marcus Smart,1,2014,2020,marcus_smart,1610612738,Boston,Celtics,BOS,celtics,Y,01
+3818,202397,"Smith, Ish",Ish Smith,1,2010,2020,ish_smith,1610612764,Washington,Wizards,WAS,wizards,Y,01
+3819,2747,"Smith, JR",JR Smith,0,2004,2019,jr_smith,0,,,,,Y,00
+3849,1629015,"Smith, Zhaire",Zhaire Smith,0,2018,2019,zhaire_smith,0,,,,,Y,01
+3850,1628372,"Smith Jr., Dennis",Dennis Smith Jr.,1,2017,2020,dennis_smith jr.,1610612752,New York,Knicks,NYK,knicks,Y,00
+3855,203503,"Snell, Tony",Tony Snell,1,2013,2020,tony_snell,1610612737,Atlanta,Hawks,ATL,hawks,Y,00
+3870,1629034,"Spalding, Ray",Ray Spalding,0,2018,2019,ray_spalding,0,,,,,Y,01
+3878,1629016,"Spellman, Omari",Omari Spellman,1,2018,2020,omari_spellman,1610612752,New York,Knicks,NYK,knicks,Y,01
+3900,203917,"Stauskas, Nik",Nik Stauskas,1,2014,2020,nik_stauskas,1610612749,Milwaukee,Bucks,MIL,bucks,Y,00
+3954,1629622,"Strus, Max",Max Strus,1,2019,2020,max_strus,1610612748,Miami,Heat,MIA,heat,Y,01
+3961,1628410,"Sumner, Edmond",Edmond Sumner,1,2017,2020,edmond_sumner,1610612754,Indiana,Pacers,IND,pacers,Y,01
+3973,1628403,"Swanigan, Caleb",Caleb Swanigan,0,2017,2019,caleb_swanigan,0,,,,,Y,01
+3993,1628369,"Tatum, Jayson",Jayson Tatum,1,2017,2020,jayson_tatum,1610612738,Boston,Celtics,BOS,celtics,Y,00
+4013,201952,"Teague, Jeff",Jeff Teague,1,2009,2020,jeff_teague,1610612738,Boston,Celtics,BOS,celtics,Y,00
+4017,202066,"Temple, Garrett",Garrett Temple,1,2009,2020,garrett_temple,1610612741,Chicago,Bulls,CHI,bulls,Y,01
+4030,1628464,"Theis, Daniel",Daniel Theis,1,2017,2020,daniel_theis,1610612738,Boston,Celtics,BOS,celtics,Y,00
+4043,202738,"Thomas, Isaiah",Isaiah Thomas,0,2011,2019,isaiah_thomas,0,,,,,Y,00
+4051,1629017,"Thomas, Khyri",Khyri Thomas,0,2018,2019,khyri_thomas,0,,,,,Y,01
+4053,202498,"Thomas, Lance",Lance Thomas,0,2011,2019,lance_thomas,0,,,,,Y,01
+4055,1629744,"Thomas, Matt",Matt Thomas,1,2019,2020,matt_thomas,1610612761,Toronto,Raptors,TOR,raptors,Y,01
+4071,202691,"Thompson, Klay",Klay Thompson,1,2011,2020,klay_thompson,1610612744,Golden State,Warriors,GSW,warriors,Y,00
+4077,202684,"Thompson, Tristan",Tristan Thompson,1,2011,2020,tristan_thompson,1610612738,Boston,Celtics,BOS,celtics,Y,00
+4082,1628414,"Thornwell, Sindarius",Sindarius Thornwell,1,2017,2020,sindarius_thornwell,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,01
+4087,1629680,"Thybulle, Matisse",Matisse Thybulle,1,2019,2020,matisse_thybulle,1610612755,Philadelphia,76ers,PHI,sixers,Y,00
+4100,201229,"Tolliver, Anthony",Anthony Tolliver,0,2008,2019,anthony_tolliver,0,,,,,Y,01
+4114,1629308,"Toscano-Anderson, Juan",Juan Toscano-Anderson,1,2019,2020,juan_toscano-anderson,1610612744,Golden State,Warriors,GSW,warriors,Y,01
+4117,1626253,"Toupane, Axel",Axel Toupane,1,2015,2020,axel_toupane,1610612744,Golden State,Warriors,GSW,warriors,Y,01
+4122,1626157,"Towns, Karl-Anthony",Karl-Anthony Towns,1,2015,2020,karl-anthony_towns,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,00
+4128,1629018,"Trent Jr., Gary",Gary Trent Jr.,1,2018,2020,tmp_gary_trent,1610612757,Portland,Trail Blazers,POR,blazers,Y,01
+4131,1629019,"Trier, Allonzo",Allonzo Trier,0,2018,2019,allonzo_trier,0,,,,,Y,00
+4144,200782,"Tucker, P.J.",P.J. Tucker,1,2006,2020,pj_tucker,1610612745,Houston,Rockets,HOU,rockets,Y,01
+4145,1629730,"Tucker, Rayjon",Rayjon Tucker,1,2019,2020,rayjon_tucker,1610612746,LA,Clippers,LAC,clippers,Y,01
+4153,202323,"Turner, Evan",Evan Turner,0,2010,2019,evan_turner,0,,,,,Y,00
+4159,1626167,"Turner, Myles",Myles Turner,1,2015,2020,myles_turner,1610612754,Indiana,Pacers,IND,pacers,Y,00
+4178,1627784,"Uthoff, Jarrod",Jarrod Uthoff,1,2016,2020,jarrod_uthoff,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,01
+4181,202685,"Valanciunas, Jonas",Jonas Valanciunas,1,2012,2020,jonas_valanciunas,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,00
+4183,1627756,"Valentine, Denzel",Denzel Valentine,1,2016,2020,denzel_valentine,1610612741,Chicago,Bulls,CHI,bulls,Y,01
+4193,1627832,"VanVleet, Fred",Fred VanVleet,1,2016,2020,fred_vanvleet,1610612761,Toronto,Raptors,TOR,raptors,Y,01
+4196,1629020,"Vanderbilt, Jarred",Jarred Vanderbilt,1,2018,2020,jarred_vanderbilt,1610612750,Minnesota,Timberwolves,MIN,timberwolves,Y,01
+4218,1629216,"Vincent, Gabe",Gabe Vincent,1,2019,2020,gabe_vincent,1610612748,Miami,Heat,MIA,heat,Y,01
+4227,203943,"Vonleh, Noah",Noah Vonleh,1,2014,2020,noah_vonleh,1610612741,Chicago,Bulls,CHI,bulls,Y,01
+4234,202696,"Vucevic, Nikola",Nikola Vucevic,1,2011,2020,nikola_vucevic,1610612753,Orlando,Magic,ORL,magic,Y,00
+4236,1629731,"Wade, Dean",Dean Wade,1,2019,2020,dean_wade,1610612739,Cleveland,Cavaliers,CLE,cavaliers,Y,01
+4244,1629021,"Wagner, Moritz",Moritz Wagner,1,2018,2020,moritz_wagner,1610612764,Washington,Wizards,WAS,wizards,Y,01
+4245,203079,"Waiters, Dion",Dion Waiters,0,2012,2019,dion_waiters,0,,,,,Y,00
+4258,202689,"Walker, Kemba",Kemba Walker,1,2011,2020,kemba_walker,1610612738,Boston,Celtics,BOS,celtics,Y,00
+4263,1629022,"Walker IV, Lonnie",Lonnie Walker IV,1,2018,2020,lonnie_walker,1610612759,San Antonio,Spurs,SAS,spurs,Y,01
+4264,202322,"Wall, John",John Wall,1,2010,2020,john_wall,1610612745,Houston,Rockets,HOU,rockets,Y,00
+4270,1627820,"Wallace, Tyrone",Tyrone Wallace,0,2017,2019,tyrone_wallace,0,,,,,Y,01
+4281,1628476,"Walton Jr., Derrick",Derrick Walton Jr.,1,2017,2020,derrick_walton jr.,1610612755,Philadelphia,76ers,PHI,sixers,Y,01
+4282,202954,"Wanamaker, Brad",Brad Wanamaker,1,2018,2020,brad_wanamaker,1610612744,Golden State,Warriors,GSW,warriors,Y,01
+4295,203933,"Warren, T.J.",T.J. Warren,1,2014,2020,tj_warren,1610612754,Indiana,Pacers,IND,pacers,Y,01
+4308,1629023,"Washington, P.J.",P.J. Washington,1,2019,2020,pj_washington,1610612766,Charlotte,Hornets,CHA,hornets,Y,00
+4312,1629139,"Watanabe, Yuta",Yuta Watanabe,1,2018,2020,yuta_watanabe,1610612761,Toronto,Raptors,TOR,raptors,Y,01
+4313,1629682,"Waters, Tremont",Tremont Waters,1,2019,2020,tremont_waters,1610612738,Boston,Celtics,BOS,celtics,Y,01
+4318,1628778,"Watson, Paul",Paul Watson,1,2019,2020,paul_watson,1610612761,Toronto,Raptors,TOR,raptors,Y,01
+4326,1629683,"Weatherspoon, Quinndary",Quinndary Weatherspoon,1,2019,2020,quinndary_weatherspoon,1610612759,San Antonio,Spurs,SAS,spurs,Y,01
+4365,201566,"Westbrook, Russell",Russell Westbrook,1,2008,2020,russell_westbrook,1610612764,Washington,Wizards,WAS,wizards,Y,00
+4374,1629632,"White, Coby",Coby White,1,2019,2020,coby_white,1610612741,Chicago,Bulls,CHI,bulls,Y,00
+4376,1628401,"White, Derrick",Derrick White,1,2017,2020,derrick_white,1610612759,San Antonio,Spurs,SAS,spurs,Y,01
+4396,202355,"Whiteside, Hassan",Hassan Whiteside,1,2010,2020,hassan_whiteside,1610612758,Sacramento,Kings,SAC,kings,Y,01
+4406,203952,"Wiggins, Andrew",Andrew Wiggins,1,2014,2020,andrew_wiggins,1610612744,Golden State,Warriors,GSW,warriors,Y,00
+4449,1629684,"Williams, Grant",Grant Williams,1,2019,2020,grant_williams,1610612738,Boston,Celtics,BOS,celtics,Y,00
+4460,1629140,"Williams, Johnathan",Johnathan Williams,0,2018,2019,johnathan_williams,0,,,,,Y,01
+4464,1629026,"Williams, Kenrich",Kenrich Williams,1,2018,2020,kenrich_williams,1610612760,Oklahoma City,Thunder,OKC,thunder,Y,01
+4467,101150,"Williams, Lou",Lou Williams,1,2005,2020,lou_williams,1610612746,LA,Clippers,LAC,clippers,Y,01
+4470,101107,"Williams, Marvin",Marvin Williams,0,2005,2019,marvin_williams,0,,,,,Y,00
+4499,1629057,"Williams III, Robert",Robert Williams III,1,2018,2020,robert_williams,1610612738,Boston,Celtics,BOS,celtics,Y,01
+4501,1628430,"Williams-Goss, Nigel",Nigel Williams-Goss,1,2019,2020,nigel_williams-goss,1610612762,Utah,Jazz,UTA,jazz,Y,01
+4504,1629627,"Williamson, Zion",Zion Williamson,1,2019,2020,zion_williamson,1610612740,New Orleans,Pelicans,NOP,pelicans,Y,00
+4510,1628391,"Wilson, D.J.",D.J. Wilson,1,2017,2020,d.j._wilson,1610612749,Milwaukee,Bucks,MIL,bucks,Y,01
+4524,1629685,"Windler, Dylan",Dylan Windler,1,2019,2020,dylan_windler,1610612739,Cleveland,Cavaliers,CLE,cavaliers,N,01
+4531,1626159,"Winslow, Justise",Justise Winslow,1,2015,2020,justise_winslow,1610612763,Memphis,Grizzlies,MEM,grizzlies,Y,00
+4549,1626174,"Wood, Christian",Christian Wood,1,2015,2020,christian_wood,1610612745,Houston,Rockets,HOU,rockets,Y,01
+4559,1629624,"Wooten, Kenny",Kenny Wooten,1,2019,2020,kenny_wooten,1610612745,Houston,Rockets,HOU,rockets,N,01
+4572,1626153,"Wright, Delon",Delon Wright,1,2015,2020,delon_wright,1610612765,Detroit,Pistons,DET,pistons,Y,01
+4581,1629625,"Wright-Foreman, Justin",Justin Wright-Foreman,0,2019,2019,justin_wright-foreman,0,,,,,Y,01
+4601,201152,"Young, Thaddeus",Thaddeus Young,1,2007,2020,thaddeus_young,1610612741,Chicago,Bulls,CHI,bulls,Y,00
+4603,1629027,"Young, Trae",Trae Young,1,2018,2020,trae_young,1610612737,Atlanta,Hawks,ATL,hawks,Y,00
+4606,203469,"Zeller, Cody",Cody Zeller,1,2013,2020,cody_zeller,1610612766,Charlotte,Hornets,CHA,hornets,Y,00
+4611,203092,"Zeller, Tyler",Tyler Zeller,1,2012,2020,tyler_zeller,1610612759,San Antonio,Spurs,SAS,spurs,Y,00
+4619,1627790,"Zizic, Ante",Ante Zizic,0,2017,2019,ante_zizic,0,,,,,Y,01
+4622,1627826,"Zubac, Ivica",Ivica Zubac,1,2016,2020,ivica_zubac,1610612746,LA,Clippers,LAC,clippers,Y,01
