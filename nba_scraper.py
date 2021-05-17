@@ -194,12 +194,17 @@ def download_boxscore_advanced_by_quarter_for(year):
             time.sleep(300)
         i = i + 1
 
-download_players('2019')
-download_game_logs_for('2019')
-download_shot_chart_details_for('2019')
-# before executing these two, which rely on game_ids, we need to get all players and game_logs
-download_play_by_play_for('2019')
-download_boxscore_advanced_for('2019') 
-# this is actually the same endpoint as the previous but broken down by period for each game
-# b/c the previous statement downloads the entire game box score
-download_boxscore_advanced_by_quarter_for('2019')
+def main(year):
+    download_players(year)
+    download_game_logs_for(year)
+    download_shot_chart_details_for(year)
+    # before executing these two, which rely on game_ids, we need to get all players and game_logs
+    download_play_by_play_for(year)
+    download_boxscore_advanced_for(year) 
+    # this is actually the same endpoint as the previous but broken down by period for each game
+    # b/c the previous statement downloads the entire game box score
+    download_boxscore_advanced_by_quarter_for(year)
+
+print('Enter Year:')
+year = input()
+main(year)
