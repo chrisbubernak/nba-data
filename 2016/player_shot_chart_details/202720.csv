@@ -1,0 +1,647 @@
+,GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+0,Shot Chart Detail,0021600007,76,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-88,21,1,0,20161026,TOR,DET
+1,Shot Chart Detail,0021600007,92,202720,Jon Leuer,1610612765,Detroit Pistons,1,3,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,14,208,1,0,20161026,TOR,DET
+2,Shot Chart Detail,0021600007,197,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,12,Missed Shot,Driving Bank Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,23,1,0,20161026,TOR,DET
+3,Shot Chart Detail,0021600007,389,202720,Jon Leuer,1610612765,Detroit Pistons,3,2,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,15,252,1,1,20161026,TOR,DET
+4,Shot Chart Detail,0021600007,429,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,14,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,53,141,1,1,20161026,TOR,DET
+5,Shot Chart Detail,0021600007,431,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,32,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,1,20161026,TOR,DET
+6,Shot Chart Detail,0021600007,455,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-1,252,1,0,20161026,TOR,DET
+7,Shot Chart Detail,0021600007,545,202720,Jon Leuer,1610612765,Detroit Pistons,4,0,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,2,185,1,0,20161026,TOR,DET
+8,Shot Chart Detail,0021600020,65,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-245,16,1,0,20161028,DET,ORL
+9,Shot Chart Detail,0021600020,87,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-40,97,1,0,20161028,DET,ORL
+10,Shot Chart Detail,0021600020,129,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,45,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,9,61,1,1,20161028,DET,ORL
+11,Shot Chart Detail,0021600020,326,202720,Jon Leuer,1610612765,Detroit Pistons,3,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,259,1,1,20161028,DET,ORL
+12,Shot Chart Detail,0021600020,406,202720,Jon Leuer,1610612765,Detroit Pistons,4,6,20,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,11,1,0,20161028,DET,ORL
+13,Shot Chart Detail,0021600020,413,202720,Jon Leuer,1610612765,Detroit Pistons,4,5,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,-1,1,0,20161028,DET,ORL
+14,Shot Chart Detail,0021600020,431,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,7,1,1,20161028,DET,ORL
+15,Shot Chart Detail,0021600038,50,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,16,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161030,DET,MIL
+16,Shot Chart Detail,0021600038,108,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,47,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-9,43,1,1,20161030,DET,MIL
+17,Shot Chart Detail,0021600038,125,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,59,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,11,1,0,20161030,DET,MIL
+18,Shot Chart Detail,0021600038,362,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,68,151,1,1,20161030,DET,MIL
+19,Shot Chart Detail,0021600038,383,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,36,1,0,20161030,DET,MIL
+20,Shot Chart Detail,0021600050,68,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-1,1,1,20161101,DET,NYK
+21,Shot Chart Detail,0021600050,90,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,66,183,1,0,20161101,DET,NYK
+22,Shot Chart Detail,0021600050,107,202720,Jon Leuer,1610612765,Detroit Pistons,1,0,50,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,18,1,0,20161101,DET,NYK
+23,Shot Chart Detail,0021600050,178,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,46,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20161101,DET,NYK
+24,Shot Chart Detail,0021600050,201,202720,Jon Leuer,1610612765,Detroit Pistons,2,5,35,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161101,DET,NYK
+25,Shot Chart Detail,0021600050,363,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,29,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,7,1,0,20161101,DET,NYK
+26,Shot Chart Detail,0021600050,369,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,2,1,1,20161101,DET,NYK
+27,Shot Chart Detail,0021600050,372,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-88,2,1,0,20161101,DET,NYK
+28,Shot Chart Detail,0021600050,401,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-150,110,1,0,20161101,DET,NYK
+29,Shot Chart Detail,0021600057,76,202720,Jon Leuer,1610612765,Detroit Pistons,1,3,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,-10,1,1,20161102,BKN,DET
+30,Shot Chart Detail,0021600057,129,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,23,61,232,1,1,20161102,BKN,DET
+31,Shot Chart Detail,0021600057,134,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,15,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,7,1,0,20161102,BKN,DET
+32,Shot Chart Detail,0021600057,155,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,229,1,0,20161102,BKN,DET
+33,Shot Chart Detail,0021600057,158,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,46,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,3,1,1,20161102,BKN,DET
+34,Shot Chart Detail,0021600057,310,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,59,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-47,47,1,1,20161102,BKN,DET
+35,Shot Chart Detail,0021600057,459,202720,Jon Leuer,1610612765,Detroit Pistons,4,4,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,19,146,1,1,20161102,BKN,DET
+36,Shot Chart Detail,0021600057,473,202720,Jon Leuer,1610612765,Detroit Pistons,4,1,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,61,237,1,0,20161102,BKN,DET
+37,Shot Chart Detail,0021600082,142,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-227,105,1,1,20161105,DET,DEN
+38,Shot Chart Detail,0021600082,185,202720,Jon Leuer,1610612765,Detroit Pistons,2,6,13,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161105,DET,DEN
+39,Shot Chart Detail,0021600082,208,202720,Jon Leuer,1610612765,Detroit Pistons,2,4,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,138,149,1,0,20161105,DET,DEN
+40,Shot Chart Detail,0021600082,212,202720,Jon Leuer,1610612765,Detroit Pistons,2,4,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-132,232,1,0,20161105,DET,DEN
+41,Shot Chart Detail,0021600082,221,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,43,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161105,DET,DEN
+42,Shot Chart Detail,0021600082,224,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,16,1,1,20161105,DET,DEN
+43,Shot Chart Detail,0021600082,314,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,31,1,0,20161105,DET,DEN
+44,Shot Chart Detail,0021600082,372,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,15,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,41,1,1,20161105,DET,DEN
+45,Shot Chart Detail,0021600082,382,202720,Jon Leuer,1610612765,Detroit Pistons,3,2,21,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-1,1,1,20161105,DET,DEN
+46,Shot Chart Detail,0021600082,454,202720,Jon Leuer,1610612765,Detroit Pistons,4,7,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-176,75,1,0,20161105,DET,DEN
+47,Shot Chart Detail,0021600098,88,202720,Jon Leuer,1610612765,Detroit Pistons,1,1,10,Made Shot,Turnaround Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,2,1,1,20161107,LAC,DET
+48,Shot Chart Detail,0021600098,118,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,3,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161107,LAC,DET
+49,Shot Chart Detail,0021600098,339,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,8,1,0,20161107,LAC,DET
+50,Shot Chart Detail,0021600098,349,202720,Jon Leuer,1610612765,Detroit Pistons,3,2,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-155,223,1,0,20161107,LAC,DET
+51,Shot Chart Detail,0021600098,368,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,39,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,23,1,1,20161107,LAC,DET
+52,Shot Chart Detail,0021600098,387,202720,Jon Leuer,1610612765,Detroit Pistons,4,11,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-84,272,1,1,20161107,LAC,DET
+53,Shot Chart Detail,0021600098,389,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,39,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-11,1,0,20161107,LAC,DET
+54,Shot Chart Detail,0021600098,452,202720,Jon Leuer,1610612765,Detroit Pistons,4,6,20,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,40,82,1,0,20161107,LAC,DET
+55,Shot Chart Detail,0021600098,510,202720,Jon Leuer,1610612765,Detroit Pistons,4,1,7,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,26,1,1,20161107,LAC,DET
+56,Shot Chart Detail,0021600098,514,202720,Jon Leuer,1610612765,Detroit Pistons,4,0,40,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161107,LAC,DET
+57,Shot Chart Detail,0021600113,60,202720,Jon Leuer,1610612765,Detroit Pistons,1,5,15,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,21,1,0,20161109,PHX,DET
+58,Shot Chart Detail,0021600113,113,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,6,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,173,4,1,0,20161109,PHX,DET
+59,Shot Chart Detail,0021600113,118,202720,Jon Leuer,1610612765,Detroit Pistons,1,1,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,209,154,1,0,20161109,PHX,DET
+60,Shot Chart Detail,0021600113,190,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-155,16,1,0,20161109,PHX,DET
+61,Shot Chart Detail,0021600113,391,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,2,252,1,0,20161109,PHX,DET
+62,Shot Chart Detail,0021600113,427,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-15,1,1,20161109,PHX,DET
+63,Shot Chart Detail,0021600113,444,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,50,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,24,0,1,1,20161109,PHX,DET
+64,Shot Chart Detail,0021600113,453,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-169,183,1,1,20161109,PHX,DET
+65,Shot Chart Detail,0021600127,75,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,168,46,1,1,20161111,SAS,DET
+66,Shot Chart Detail,0021600127,115,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,49,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,18,1,0,20161111,SAS,DET
+67,Shot Chart Detail,0021600127,207,202720,Jon Leuer,1610612765,Detroit Pistons,2,1,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,117,229,1,0,20161111,SAS,DET
+68,Shot Chart Detail,0021600127,302,202720,Jon Leuer,1610612765,Detroit Pistons,3,2,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,53,242,1,0,20161111,SAS,DET
+69,Shot Chart Detail,0021600127,326,202720,Jon Leuer,1610612765,Detroit Pistons,4,11,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-73,254,1,0,20161111,SAS,DET
+70,Shot Chart Detail,0021600127,378,202720,Jon Leuer,1610612765,Detroit Pistons,4,7,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,164,1,0,20161111,SAS,DET
+71,Shot Chart Detail,0021600127,399,202720,Jon Leuer,1610612765,Detroit Pistons,4,5,54,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-81,41,1,1,20161111,SAS,DET
+72,Shot Chart Detail,0021600127,412,202720,Jon Leuer,1610612765,Detroit Pistons,4,4,37,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,159,105,1,1,20161111,SAS,DET
+73,Shot Chart Detail,0021600138,85,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,49,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-91,7,1,1,20161112,DEN,DET
+74,Shot Chart Detail,0021600138,88,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,13,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,151,65,1,1,20161112,DEN,DET
+75,Shot Chart Detail,0021600138,123,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,3,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-1,47,1,1,20161112,DEN,DET
+76,Shot Chart Detail,0021600138,148,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,21,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-40,82,1,0,20161112,DEN,DET
+77,Shot Chart Detail,0021600138,151,202720,Jon Leuer,1610612765,Detroit Pistons,2,6,53,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-246,33,1,0,20161112,DEN,DET
+78,Shot Chart Detail,0021600138,181,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,59,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-58,105,1,1,20161112,DEN,DET
+79,Shot Chart Detail,0021600138,326,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,45,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-191,-6,1,0,20161112,DEN,DET
+80,Shot Chart Detail,0021600138,328,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,39,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-17,56,1,0,20161112,DEN,DET
+81,Shot Chart Detail,0021600138,332,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-66,90,1,1,20161112,DEN,DET
+82,Shot Chart Detail,0021600138,368,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,153,90,1,0,20161112,DEN,DET
+83,Shot Chart Detail,0021600138,372,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,8,1,1,20161112,DEN,DET
+84,Shot Chart Detail,0021600138,396,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,1,20161112,DEN,DET
+85,Shot Chart Detail,0021600147,74,202720,Jon Leuer,1610612765,Detroit Pistons,1,5,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,117,80,1,0,20161114,DET,OKC
+86,Shot Chart Detail,0021600147,113,202720,Jon Leuer,1610612765,Detroit Pistons,1,1,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20161114,DET,OKC
+87,Shot Chart Detail,0021600147,169,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,40,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,26,1,1,20161114,DET,OKC
+88,Shot Chart Detail,0021600147,362,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,68,149,1,0,20161114,DET,OKC
+89,Shot Chart Detail,0021600147,378,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,115,229,1,0,20161114,DET,OKC
+90,Shot Chart Detail,0021600147,381,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,33,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,37,120,1,0,20161114,DET,OKC
+91,Shot Chart Detail,0021600147,451,202720,Jon Leuer,1610612765,Detroit Pistons,4,7,35,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-1,1,1,20161114,DET,OKC
+92,Shot Chart Detail,0021600147,453,202720,Jon Leuer,1610612765,Detroit Pistons,4,6,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-53,169,1,0,20161114,DET,OKC
+93,Shot Chart Detail,0021600162,90,202720,Jon Leuer,1610612765,Detroit Pistons,1,1,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-1,247,1,1,20161116,NYK,DET
+94,Shot Chart Detail,0021600162,126,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,64,56,1,1,20161116,NYK,DET
+95,Shot Chart Detail,0021600162,152,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-97,234,1,0,20161116,NYK,DET
+96,Shot Chart Detail,0021600162,325,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-4,165,1,0,20161116,NYK,DET
+97,Shot Chart Detail,0021600162,333,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-97,13,1,1,20161116,NYK,DET
+98,Shot Chart Detail,0021600162,338,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-10,1,1,20161116,NYK,DET
+99,Shot Chart Detail,0021600162,367,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,17,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-1,1,0,20161116,NYK,DET
+100,Shot Chart Detail,0021600162,383,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-81,183,1,1,20161116,NYK,DET
+101,Shot Chart Detail,0021600162,438,202720,Jon Leuer,1610612765,Detroit Pistons,4,4,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,7,1,1,20161116,NYK,DET
+102,Shot Chart Detail,0021600162,444,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,39,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,0,1,0,20161116,NYK,DET
+103,Shot Chart Detail,0021600162,455,202720,Jon Leuer,1610612765,Detroit Pistons,4,2,29,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-42,70,1,1,20161116,NYK,DET
+104,Shot Chart Detail,0021600175,76,202720,Jon Leuer,1610612765,Detroit Pistons,1,3,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,-11,1,1,20161118,CLE,DET
+105,Shot Chart Detail,0021600175,102,202720,Jon Leuer,1610612765,Detroit Pistons,1,1,17,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,7,1,0,20161118,CLE,DET
+106,Shot Chart Detail,0021600175,108,202720,Jon Leuer,1610612765,Detroit Pistons,1,0,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-148,208,1,0,20161118,CLE,DET
+107,Shot Chart Detail,0021600175,212,202720,Jon Leuer,1610612765,Detroit Pistons,2,4,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-117,95,1,0,20161118,CLE,DET
+108,Shot Chart Detail,0021600175,222,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,27,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20161118,CLE,DET
+109,Shot Chart Detail,0021600175,355,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,6,Made Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-109,2,1,1,20161118,CLE,DET
+110,Shot Chart Detail,0021600175,359,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20161118,CLE,DET
+111,Shot Chart Detail,0021600175,383,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-209,-15,1,0,20161118,CLE,DET
+112,Shot Chart Detail,0021600175,390,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,2,1,1,20161118,CLE,DET
+113,Shot Chart Detail,0021600175,396,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,64,169,1,0,20161118,CLE,DET
+114,Shot Chart Detail,0021600175,406,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-6,1,1,20161118,CLE,DET
+115,Shot Chart Detail,0021600175,428,202720,Jon Leuer,1610612765,Detroit Pistons,4,7,26,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,23,1,0,20161118,CLE,DET
+116,Shot Chart Detail,0021600188,59,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,174,1,0,20161119,DET,BOS
+117,Shot Chart Detail,0021600188,102,202720,Jon Leuer,1610612765,Detroit Pistons,1,0,20,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-76,80,1,0,20161119,DET,BOS
+118,Shot Chart Detail,0021600188,129,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,259,1,0,20161119,DET,BOS
+119,Shot Chart Detail,0021600188,334,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,141,208,1,0,20161119,DET,BOS
+120,Shot Chart Detail,0021600188,351,202720,Jon Leuer,1610612765,Detroit Pistons,4,11,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,159,16,1,0,20161119,DET,BOS
+121,Shot Chart Detail,0021600188,390,202720,Jon Leuer,1610612765,Detroit Pistons,4,7,7,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,84,57,1,0,20161119,DET,BOS
+122,Shot Chart Detail,0021600188,396,202720,Jon Leuer,1610612765,Detroit Pistons,4,6,33,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,11,1,0,20161119,DET,BOS
+123,Shot Chart Detail,0021600203,70,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,18,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,11,1,0,20161121,DET,HOU
+124,Shot Chart Detail,0021600203,79,202720,Jon Leuer,1610612765,Detroit Pistons,1,3,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,2,1,1,20161121,DET,HOU
+125,Shot Chart Detail,0021600203,82,202720,Jon Leuer,1610612765,Detroit Pistons,1,3,21,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,56,198,1,0,20161121,DET,HOU
+126,Shot Chart Detail,0021600203,109,202720,Jon Leuer,1610612765,Detroit Pistons,1,0,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,115,49,1,0,20161121,DET,HOU
+127,Shot Chart Detail,0021600203,135,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161121,DET,HOU
+128,Shot Chart Detail,0021600203,161,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,31,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-73,11,1,1,20161121,DET,HOU
+129,Shot Chart Detail,0021600203,417,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,41,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-48,2,1,0,20161121,DET,HOU
+130,Shot Chart Detail,0021600203,438,202720,Jon Leuer,1610612765,Detroit Pistons,4,7,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161121,DET,HOU
+131,Shot Chart Detail,0021600203,468,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,24,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,43,1,0,20161121,DET,HOU
+132,Shot Chart Detail,0021600218,103,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,30,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,2,1,1,20161123,DET,MIA
+133,Shot Chart Detail,0021600218,345,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,2,1,1,20161123,DET,MIA
+134,Shot Chart Detail,0021600218,379,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,24,262,1,0,20161123,DET,MIA
+135,Shot Chart Detail,0021600218,427,202720,Jon Leuer,1610612765,Detroit Pistons,4,7,54,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161123,DET,MIA
+136,Shot Chart Detail,0021600218,439,202720,Jon Leuer,1610612765,Detroit Pistons,4,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-166,205,1,0,20161123,DET,MIA
+137,Shot Chart Detail,0021600218,470,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-32,262,1,1,20161123,DET,MIA
+138,Shot Chart Detail,0021600230,65,202720,Jon Leuer,1610612765,Detroit Pistons,1,3,40,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161125,DET,LAC
+139,Shot Chart Detail,0021600230,77,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,57,1,0,20161125,DET,LAC
+140,Shot Chart Detail,0021600230,125,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,41,1,0,20161125,DET,LAC
+141,Shot Chart Detail,0021600230,140,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,12,85,1,0,20161125,DET,LAC
+142,Shot Chart Detail,0021600230,147,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,6,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,74,62,1,1,20161125,DET,LAC
+143,Shot Chart Detail,0021600230,152,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,2,1,0,20161125,DET,LAC
+144,Shot Chart Detail,0021600230,306,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,123,3,1,0,20161125,DET,LAC
+145,Shot Chart Detail,0021600230,314,202720,Jon Leuer,1610612765,Detroit Pistons,3,2,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,7,1,1,20161125,DET,LAC
+146,Shot Chart Detail,0021600230,316,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,13,1,1,20161125,DET,LAC
+147,Shot Chart Detail,0021600230,331,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,49,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-1,67,1,1,20161125,DET,LAC
+148,Shot Chart Detail,0021600230,359,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-81,242,1,0,20161125,DET,LAC
+149,Shot Chart Detail,0021600230,431,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,27,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,243,43,1,0,20161125,DET,LAC
+150,Shot Chart Detail,0021600242,111,202720,Jon Leuer,1610612765,Detroit Pistons,1,0,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,18,1,0,20161126,OKC,DET
+151,Shot Chart Detail,0021600242,113,202720,Jon Leuer,1610612765,Detroit Pistons,1,0,34,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,19,3,1,1,20161126,OKC,DET
+152,Shot Chart Detail,0021600242,202,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,4,242,1,0,20161126,OKC,DET
+153,Shot Chart Detail,0021600242,289,202720,Jon Leuer,1610612765,Detroit Pistons,2,0,7,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161126,OKC,DET
+154,Shot Chart Detail,0021600242,381,202720,Jon Leuer,1610612765,Detroit Pistons,3,2,5,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,112,11,1,1,20161126,OKC,DET
+155,Shot Chart Detail,0021600242,420,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,3,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,-1,1,1,20161126,OKC,DET
+156,Shot Chart Detail,0021600242,423,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,11,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-22,252,1,0,20161126,OKC,DET
+157,Shot Chart Detail,0021600260,77,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-43,242,1,1,20161129,CHA,DET
+158,Shot Chart Detail,0021600260,100,202720,Jon Leuer,1610612765,Detroit Pistons,1,0,0,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-37,120,1,1,20161129,CHA,DET
+159,Shot Chart Detail,0021600260,115,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,89,237,1,0,20161129,CHA,DET
+160,Shot Chart Detail,0021600260,127,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,2,1,0,20161129,CHA,DET
+161,Shot Chart Detail,0021600260,163,202720,Jon Leuer,1610612765,Detroit Pistons,2,6,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-24,165,1,0,20161129,CHA,DET
+162,Shot Chart Detail,0021600260,175,202720,Jon Leuer,1610612765,Detroit Pistons,2,5,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-73,75,1,0,20161129,CHA,DET
+163,Shot Chart Detail,0021600260,270,202720,Jon Leuer,1610612765,Detroit Pistons,3,9,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-165,3,1,0,20161129,CHA,DET
+164,Shot Chart Detail,0021600260,295,202720,Jon Leuer,1610612765,Detroit Pistons,3,6,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,6,188,1,0,20161129,CHA,DET
+165,Shot Chart Detail,0021600260,349,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,50,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-25,105,1,1,20161129,CHA,DET
+166,Shot Chart Detail,0021600260,374,202720,Jon Leuer,1610612765,Detroit Pistons,4,11,14,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20161129,CHA,DET
+167,Shot Chart Detail,0021600260,381,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,44,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,65,1,0,20161129,CHA,DET
+168,Shot Chart Detail,0021600260,462,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,0,1,1,20161129,CHA,DET
+169,Shot Chart Detail,0021600267,80,202720,Jon Leuer,1610612765,Detroit Pistons,1,3,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,193,1,1,20161130,BOS,DET
+170,Shot Chart Detail,0021600267,83,202720,Jon Leuer,1610612765,Detroit Pistons,1,3,8,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20161130,BOS,DET
+171,Shot Chart Detail,0021600267,120,202720,Jon Leuer,1610612765,Detroit Pistons,2,11,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-83,228,1,1,20161130,BOS,DET
+172,Shot Chart Detail,0021600267,150,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-66,247,1,0,20161130,BOS,DET
+173,Shot Chart Detail,0021600267,320,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,24,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161130,BOS,DET
+174,Shot Chart Detail,0021600288,104,202720,Jon Leuer,1610612765,Detroit Pistons,1,1,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-68,239,1,1,20161202,ATL,DET
+175,Shot Chart Detail,0021600288,332,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-58,242,1,1,20161202,ATL,DET
+176,Shot Chart Detail,0021600288,339,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,50,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161202,ATL,DET
+177,Shot Chart Detail,0021600288,438,202720,Jon Leuer,1610612765,Detroit Pistons,4,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-92,237,1,1,20161202,ATL,DET
+178,Shot Chart Detail,0021600288,455,202720,Jon Leuer,1610612765,Detroit Pistons,4,5,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,61,242,1,0,20161202,ATL,DET
+179,Shot Chart Detail,0021600288,489,202720,Jon Leuer,1610612765,Detroit Pistons,4,2,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-56,237,1,1,20161202,ATL,DET
+180,Shot Chart Detail,0021600300,47,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,49,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-9,100,1,1,20161204,DET,ORL
+181,Shot Chart Detail,0021600300,114,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,8,1,0,20161204,DET,ORL
+182,Shot Chart Detail,0021600300,151,202720,Jon Leuer,1610612765,Detroit Pistons,2,5,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-133,228,1,1,20161204,DET,ORL
+183,Shot Chart Detail,0021600300,300,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,54,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,28,1,1,20161204,DET,ORL
+184,Shot Chart Detail,0021600300,327,202720,Jon Leuer,1610612765,Detroit Pistons,4,11,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-151,100,1,0,20161204,DET,ORL
+185,Shot Chart Detail,0021600300,345,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,92,242,1,0,20161204,DET,ORL
+186,Shot Chart Detail,0021600300,394,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,81,244,1,0,20161204,DET,ORL
+187,Shot Chart Detail,0021600317,116,202720,Jon Leuer,1610612765,Detroit Pistons,2,11,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161206,DET,CHI
+188,Shot Chart Detail,0021600317,121,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-24,169,1,1,20161206,DET,CHI
+189,Shot Chart Detail,0021600317,131,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,13,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-119,3,1,1,20161206,DET,CHI
+190,Shot Chart Detail,0021600317,359,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,28,259,1,0,20161206,DET,CHI
+191,Shot Chart Detail,0021600317,373,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,44,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,3,1,0,20161206,DET,CHI
+192,Shot Chart Detail,0021600317,430,202720,Jon Leuer,1610612765,Detroit Pistons,4,5,20,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,60,57,1,0,20161206,DET,CHI
+193,Shot Chart Detail,0021600321,34,202720,Jon Leuer,1610612765,Detroit Pistons,1,8,6,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,23,1,0,20161207,CHA,DET
+194,Shot Chart Detail,0021600321,70,202720,Jon Leuer,1610612765,Detroit Pistons,1,5,4,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20161207,CHA,DET
+195,Shot Chart Detail,0021600321,72,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-106,80,1,0,20161207,CHA,DET
+196,Shot Chart Detail,0021600321,88,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,41,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-5,1,1,20161207,CHA,DET
+197,Shot Chart Detail,0021600321,139,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-4,185,1,0,20161207,CHA,DET
+198,Shot Chart Detail,0021600321,143,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-20,242,1,0,20161207,CHA,DET
+199,Shot Chart Detail,0021600321,235,202720,Jon Leuer,1610612765,Detroit Pistons,2,1,50,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,14,97,1,0,20161207,CHA,DET
+200,Shot Chart Detail,0021600321,329,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-78,144,1,0,20161207,CHA,DET
+201,Shot Chart Detail,0021600321,367,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,97,232,1,0,20161207,CHA,DET
+202,Shot Chart Detail,0021600321,374,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,7,1,1,20161207,CHA,DET
+203,Shot Chart Detail,0021600321,413,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,210,1,0,20161207,CHA,DET
+204,Shot Chart Detail,0021600342,58,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-52,244,1,0,20161209,MIN,DET
+205,Shot Chart Detail,0021600342,122,202720,Jon Leuer,1610612765,Detroit Pistons,2,11,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,16,1,0,20161209,MIN,DET
+206,Shot Chart Detail,0021600342,135,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,3,1,0,20161209,MIN,DET
+207,Shot Chart Detail,0021600342,144,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,23,1,0,20161209,MIN,DET
+208,Shot Chart Detail,0021600342,149,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,16,1,1,20161209,MIN,DET
+209,Shot Chart Detail,0021600342,334,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,16,1,1,20161209,MIN,DET
+210,Shot Chart Detail,0021600342,340,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,58,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20161209,MIN,DET
+211,Shot Chart Detail,0021600342,356,202720,Jon Leuer,1610612765,Detroit Pistons,4,11,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,13,9,139,1,1,20161209,MIN,DET
+212,Shot Chart Detail,0021600342,373,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,7,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,12,160,1,1,20161209,MIN,DET
+213,Shot Chart Detail,0021600342,376,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-58,164,1,0,20161209,MIN,DET
+214,Shot Chart Detail,0021600356,79,202720,Jon Leuer,1610612765,Detroit Pistons,1,1,31,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,163,31,1,1,20161211,DET,PHI
+215,Shot Chart Detail,0021600356,100,202720,Jon Leuer,1610612765,Detroit Pistons,2,11,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,163,65,1,0,20161211,DET,PHI
+216,Shot Chart Detail,0021600356,187,202720,Jon Leuer,1610612765,Detroit Pistons,2,1,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,42,72,1,0,20161211,DET,PHI
+217,Shot Chart Detail,0021600381,71,202720,Jon Leuer,1610612765,Detroit Pistons,1,3,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,38,1,1,20161214,DAL,DET
+218,Shot Chart Detail,0021600381,93,202720,Jon Leuer,1610612765,Detroit Pistons,1,1,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,46,105,1,1,20161214,DAL,DET
+219,Shot Chart Detail,0021600381,139,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,10,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,-11,1,1,20161214,DAL,DET
+220,Shot Chart Detail,0021600381,151,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,8,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-79,51,1,1,20161214,DAL,DET
+221,Shot Chart Detail,0021600381,163,202720,Jon Leuer,1610612765,Detroit Pistons,2,5,41,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-43,75,1,1,20161214,DAL,DET
+222,Shot Chart Detail,0021600381,177,202720,Jon Leuer,1610612765,Detroit Pistons,2,4,3,Made Shot,Running Alley Oop Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-1,1,1,20161214,DAL,DET
+223,Shot Chart Detail,0021600381,299,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,36,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,91,85,1,0,20161214,DAL,DET
+224,Shot Chart Detail,0021600381,315,202720,Jon Leuer,1610612765,Detroit Pistons,3,2,5,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,16,1,1,20161214,DAL,DET
+225,Shot Chart Detail,0021600381,364,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,28,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-1,1,1,20161214,DAL,DET
+226,Shot Chart Detail,0021600389,74,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,30,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,109,16,1,1,20161216,WAS,DET
+227,Shot Chart Detail,0021600389,103,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,21,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-4,149,1,1,20161216,WAS,DET
+228,Shot Chart Detail,0021600389,182,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,9,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-120,0,1,0,20161216,WAS,DET
+229,Shot Chart Detail,0021600389,376,202720,Jon Leuer,1610612765,Detroit Pistons,3,6,51,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,11,1,0,20161216,WAS,DET
+230,Shot Chart Detail,0021600389,383,202720,Jon Leuer,1610612765,Detroit Pistons,3,6,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,193,1,1,20161216,WAS,DET
+231,Shot Chart Detail,0021600389,394,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-196,165,1,0,20161216,WAS,DET
+232,Shot Chart Detail,0021600389,402,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,2,1,0,20161216,WAS,DET
+233,Shot Chart Detail,0021600389,422,202720,Jon Leuer,1610612765,Detroit Pistons,3,2,24,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-14,129,1,1,20161216,WAS,DET
+234,Shot Chart Detail,0021600389,469,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,2,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,8,1,1,20161216,WAS,DET
+235,Shot Chart Detail,0021600389,519,202720,Jon Leuer,1610612765,Detroit Pistons,4,5,3,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,0,1,1,20161216,WAS,DET
+236,Shot Chart Detail,0021600389,521,202720,Jon Leuer,1610612765,Detroit Pistons,4,4,39,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-14,11,1,1,20161216,WAS,DET
+237,Shot Chart Detail,0021600389,537,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,24,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20161216,WAS,DET
+238,Shot Chart Detail,0021600414,99,202720,Jon Leuer,1610612765,Detroit Pistons,2,11,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,61,249,1,0,20161219,CHI,DET
+239,Shot Chart Detail,0021600414,149,202720,Jon Leuer,1610612765,Detroit Pistons,2,6,45,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-19,11,1,1,20161219,CHI,DET
+240,Shot Chart Detail,0021600414,304,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,59,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161219,CHI,DET
+241,Shot Chart Detail,0021600414,318,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,11,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-63,139,1,1,20161219,CHI,DET
+242,Shot Chart Detail,0021600414,337,202720,Jon Leuer,1610612765,Detroit Pistons,3,2,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,37,180,1,1,20161219,CHI,DET
+243,Shot Chart Detail,0021600414,347,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,21,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,1,20161219,CHI,DET
+244,Shot Chart Detail,0021600414,356,202720,Jon Leuer,1610612765,Detroit Pistons,4,11,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,51,1,1,20161219,CHI,DET
+245,Shot Chart Detail,0021600414,369,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,16,1,0,20161219,CHI,DET
+246,Shot Chart Detail,0021600414,382,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-129,0,1,1,20161219,CHI,DET
+247,Shot Chart Detail,0021600431,71,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,48,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-38,87,1,0,20161221,DET,MEM
+248,Shot Chart Detail,0021600431,93,202720,Jon Leuer,1610612765,Detroit Pistons,1,0,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-145,213,1,1,20161221,DET,MEM
+249,Shot Chart Detail,0021600431,111,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-86,242,1,0,20161221,DET,MEM
+250,Shot Chart Detail,0021600431,157,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,15,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-83,51,1,1,20161221,DET,MEM
+251,Shot Chart Detail,0021600431,176,202720,Jon Leuer,1610612765,Detroit Pistons,2,5,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20161221,DET,MEM
+252,Shot Chart Detail,0021600431,205,202720,Jon Leuer,1610612765,Detroit Pistons,2,1,40,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,85,1,0,20161221,DET,MEM
+253,Shot Chart Detail,0021600431,317,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-187,180,1,0,20161221,DET,MEM
+254,Shot Chart Detail,0021600431,336,202720,Jon Leuer,1610612765,Detroit Pistons,3,2,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-165,62,1,0,20161221,DET,MEM
+255,Shot Chart Detail,0021600431,350,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-135,16,1,1,20161221,DET,MEM
+256,Shot Chart Detail,0021600431,353,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,8,1,0,20161221,DET,MEM
+257,Shot Chart Detail,0021600431,360,202720,Jon Leuer,1610612765,Detroit Pistons,4,11,52,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161221,DET,MEM
+258,Shot Chart Detail,0021600431,398,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,32,Made Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-119,13,1,1,20161221,DET,MEM
+259,Shot Chart Detail,0021600431,403,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,23,1,0,20161221,DET,MEM
+260,Shot Chart Detail,0021600446,35,202720,Jon Leuer,1610612765,Detroit Pistons,1,7,59,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,7,1,1,20161223,DET,GSW
+261,Shot Chart Detail,0021600446,45,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-109,-1,1,0,20161223,DET,GSW
+262,Shot Chart Detail,0021600446,75,202720,Jon Leuer,1610612765,Detroit Pistons,1,3,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,2,1,1,20161223,DET,GSW
+263,Shot Chart Detail,0021600446,77,202720,Jon Leuer,1610612765,Detroit Pistons,1,3,14,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,11,1,1,20161223,DET,GSW
+264,Shot Chart Detail,0021600446,180,202720,Jon Leuer,1610612765,Detroit Pistons,2,6,6,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,17,65,1,1,20161223,DET,GSW
+265,Shot Chart Detail,0021600446,298,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-184,178,1,0,20161223,DET,GSW
+266,Shot Chart Detail,0021600446,342,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,16,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,51,1,0,20161223,DET,GSW
+267,Shot Chart Detail,0021600464,19,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,168,193,1,1,20161226,DET,CLE
+268,Shot Chart Detail,0021600464,34,202720,Jon Leuer,1610612765,Detroit Pistons,1,8,58,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161226,DET,CLE
+269,Shot Chart Detail,0021600464,53,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,13,1,0,20161226,DET,CLE
+270,Shot Chart Detail,0021600464,170,202720,Jon Leuer,1610612765,Detroit Pistons,2,6,27,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,75,1,0,20161226,DET,CLE
+271,Shot Chart Detail,0021600464,183,202720,Jon Leuer,1610612765,Detroit Pistons,2,5,38,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,38,1,0,20161226,DET,CLE
+272,Shot Chart Detail,0021600464,276,202720,Jon Leuer,1610612765,Detroit Pistons,3,9,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,16,1,1,20161226,DET,CLE
+273,Shot Chart Detail,0021600464,289,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,7,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20161226,DET,CLE
+274,Shot Chart Detail,0021600464,306,202720,Jon Leuer,1610612765,Detroit Pistons,3,6,51,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,16,1,0,20161226,DET,CLE
+275,Shot Chart Detail,0021600464,314,202720,Jon Leuer,1610612765,Detroit Pistons,3,5,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-215,136,1,0,20161226,DET,CLE
+276,Shot Chart Detail,0021600464,328,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-84,193,1,1,20161226,DET,CLE
+277,Shot Chart Detail,0021600464,458,202720,Jon Leuer,1610612765,Detroit Pistons,4,4,25,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,60,8,1,0,20161226,DET,CLE
+278,Shot Chart Detail,0021600479,32,202720,Jon Leuer,1610612765,Detroit Pistons,1,7,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,2,1,1,20161228,DET,MIL
+279,Shot Chart Detail,0021600479,44,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-174,23,1,0,20161228,DET,MIL
+280,Shot Chart Detail,0021600479,106,202720,Jon Leuer,1610612765,Detroit Pistons,2,11,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-97,129,1,0,20161228,DET,MIL
+281,Shot Chart Detail,0021600479,115,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,229,1,0,20161228,DET,MIL
+282,Shot Chart Detail,0021600479,130,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,174,2,1,1,20161228,DET,MIL
+283,Shot Chart Detail,0021600479,147,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,0,20161228,DET,MIL
+284,Shot Chart Detail,0021600479,230,202720,Jon Leuer,1610612765,Detroit Pistons,3,11,48,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,20161228,DET,MIL
+285,Shot Chart Detail,0021600479,238,202720,Jon Leuer,1610612765,Detroit Pistons,3,11,0,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,8,1,0,20161228,DET,MIL
+286,Shot Chart Detail,0021600479,325,202720,Jon Leuer,1610612765,Detroit Pistons,3,2,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-186,41,1,0,20161228,DET,MIL
+287,Shot Chart Detail,0021600479,347,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,1,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-185,90,1,0,20161228,DET,MIL
+288,Shot Chart Detail,0021600479,359,202720,Jon Leuer,1610612765,Detroit Pistons,4,11,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-204,159,1,1,20161228,DET,MIL
+289,Shot Chart Detail,0021600498,32,202720,Jon Leuer,1610612765,Detroit Pistons,1,8,10,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,1,20161230,ATL,DET
+290,Shot Chart Detail,0021600498,53,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,14,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,2,1,1,20161230,ATL,DET
+291,Shot Chart Detail,0021600498,63,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,53,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20161230,ATL,DET
+292,Shot Chart Detail,0021600498,75,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-76,228,1,0,20161230,ATL,DET
+293,Shot Chart Detail,0021600498,79,202720,Jon Leuer,1610612765,Detroit Pistons,1,3,43,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-53,124,1,0,20161230,ATL,DET
+294,Shot Chart Detail,0021600498,117,202720,Jon Leuer,1610612765,Detroit Pistons,1,0,16,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,26,1,1,20161230,ATL,DET
+295,Shot Chart Detail,0021600498,202,202720,Jon Leuer,1610612765,Detroit Pistons,2,4,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-140,205,1,1,20161230,ATL,DET
+296,Shot Chart Detail,0021600498,237,202720,Jon Leuer,1610612765,Detroit Pistons,2,1,51,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20161230,ATL,DET
+297,Shot Chart Detail,0021600498,241,202720,Jon Leuer,1610612765,Detroit Pistons,2,1,23,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,19,-45,190,1,0,20161230,ATL,DET
+298,Shot Chart Detail,0021600498,276,202720,Jon Leuer,1610612765,Detroit Pistons,3,10,15,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,3,1,0,20161230,ATL,DET
+299,Shot Chart Detail,0021600498,278,202720,Jon Leuer,1610612765,Detroit Pistons,3,10,6,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-42,154,1,0,20161230,ATL,DET
+300,Shot Chart Detail,0021600498,306,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,35,244,1,0,20161230,ATL,DET
+301,Shot Chart Detail,0021600498,351,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,47,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,64,120,1,0,20161230,ATL,DET
+302,Shot Chart Detail,0021600498,383,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,52,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,1,77,1,1,20161230,ATL,DET
+303,Shot Chart Detail,0021600498,454,202720,Jon Leuer,1610612765,Detroit Pistons,4,5,57,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20161230,ATL,DET
+304,Shot Chart Detail,0021600498,469,202720,Jon Leuer,1610612765,Detroit Pistons,4,4,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,153,188,1,1,20161230,ATL,DET
+305,Shot Chart Detail,0021600509,74,202720,Jon Leuer,1610612765,Detroit Pistons,1,3,29,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,0,20170101,MIA,DET
+306,Shot Chart Detail,0021600509,77,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,7,1,1,20170101,MIA,DET
+307,Shot Chart Detail,0021600509,301,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,14,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,11,1,0,20170101,MIA,DET
+308,Shot Chart Detail,0021600509,482,202720,Jon Leuer,1610612765,Detroit Pistons,4,1,14,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,89,-11,1,0,20170101,MIA,DET
+309,Shot Chart Detail,0021600523,43,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,20,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-104,7,1,1,20170103,DET,IND
+310,Shot Chart Detail,0021600523,128,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,3,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,123,56,1,1,20170103,DET,IND
+311,Shot Chart Detail,0021600523,133,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,9,267,1,0,20170103,DET,IND
+312,Shot Chart Detail,0021600523,148,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-86,116,1,0,20170103,DET,IND
+313,Shot Chart Detail,0021600523,161,202720,Jon Leuer,1610612765,Detroit Pistons,2,6,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-120,234,1,0,20170103,DET,IND
+314,Shot Chart Detail,0021600523,188,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,55,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,-6,1,1,20170103,DET,IND
+315,Shot Chart Detail,0021600523,212,202720,Jon Leuer,1610612765,Detroit Pistons,2,1,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,53,149,1,1,20170103,DET,IND
+316,Shot Chart Detail,0021600523,217,202720,Jon Leuer,1610612765,Detroit Pistons,2,0,37,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-38,65,1,1,20170103,DET,IND
+317,Shot Chart Detail,0021600523,239,202720,Jon Leuer,1610612765,Detroit Pistons,3,10,47,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,31,1,1,20170103,DET,IND
+318,Shot Chart Detail,0021600523,281,202720,Jon Leuer,1610612765,Detroit Pistons,3,6,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,154,1,0,20170103,DET,IND
+319,Shot Chart Detail,0021600523,296,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,41,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,11,1,1,20170103,DET,IND
+320,Shot Chart Detail,0021600538,17,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170105,DET,CHA
+321,Shot Chart Detail,0021600538,25,202720,Jon Leuer,1610612765,Detroit Pistons,1,8,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,13,1,1,20170105,DET,CHA
+322,Shot Chart Detail,0021600538,206,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,23,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,13,1,0,20170105,DET,CHA
+323,Shot Chart Detail,0021600538,334,202720,Jon Leuer,1610612765,Detroit Pistons,3,9,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-156,203,1,0,20170105,DET,CHA
+324,Shot Chart Detail,0021600538,349,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,4,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-166,131,1,0,20170105,DET,CHA
+325,Shot Chart Detail,0021600538,367,202720,Jon Leuer,1610612765,Detroit Pistons,3,6,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-43,272,1,1,20170105,DET,CHA
+326,Shot Chart Detail,0021600651,63,202720,Jon Leuer,1610612765,Detroit Pistons,1,5,22,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,3,1,1,20170121,DET,WAS
+327,Shot Chart Detail,0021600651,107,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,238,115,1,1,20170121,DET,WAS
+328,Shot Chart Detail,0021600651,287,202720,Jon Leuer,1610612765,Detroit Pistons,2,0,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-6,1,1,20170121,DET,WAS
+329,Shot Chart Detail,0021600651,463,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,27,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,82,16,1,0,20170121,DET,WAS
+330,Shot Chart Detail,0021600651,471,202720,Jon Leuer,1610612765,Detroit Pistons,4,7,35,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,16,1,0,20170121,DET,WAS
+331,Shot Chart Detail,0021600651,495,202720,Jon Leuer,1610612765,Detroit Pistons,4,5,45,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,9,67,1,1,20170121,DET,WAS
+332,Shot Chart Detail,0021600669,11,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-58,247,1,1,20170123,DET,SAC
+333,Shot Chart Detail,0021600669,20,202720,Jon Leuer,1610612765,Detroit Pistons,1,9,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-209,159,1,1,20170123,DET,SAC
+334,Shot Chart Detail,0021600669,39,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,16,1,1,20170123,DET,SAC
+335,Shot Chart Detail,0021600669,48,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,13,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20170123,DET,SAC
+336,Shot Chart Detail,0021600669,82,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,12,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-107,2,1,1,20170123,DET,SAC
+337,Shot Chart Detail,0021600669,86,202720,Jon Leuer,1610612765,Detroit Pistons,1,0,48,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,36,1,1,20170123,DET,SAC
+338,Shot Chart Detail,0021600669,186,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-227,121,1,0,20170123,DET,SAC
+339,Shot Chart Detail,0021600669,247,202720,Jon Leuer,1610612765,Detroit Pistons,3,11,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,24,1,0,20170123,DET,SAC
+340,Shot Chart Detail,0021600669,249,202720,Jon Leuer,1610612765,Detroit Pistons,3,11,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,0,20170123,DET,SAC
+341,Shot Chart Detail,0021600669,391,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,64,154,1,0,20170123,DET,SAC
+342,Shot Chart Detail,0021600669,499,202720,Jon Leuer,1610612765,Detroit Pistons,4,0,5,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,16,1,0,20170123,DET,SAC
+343,Shot Chart Detail,0021600705,8,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,34,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,38,1,1,20170128,MIA,DET
+344,Shot Chart Detail,0021600705,38,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-147,190,1,0,20170128,MIA,DET
+345,Shot Chart Detail,0021600705,58,202720,Jon Leuer,1610612765,Detroit Pistons,1,5,9,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,7,1,1,20170128,MIA,DET
+346,Shot Chart Detail,0021600705,73,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,8,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20170128,MIA,DET
+347,Shot Chart Detail,0021600705,392,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,5,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,-1,1,1,20170128,MIA,DET
+348,Shot Chart Detail,0021600721,112,202720,Jon Leuer,1610612765,Detroit Pistons,2,11,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,45,254,1,0,20170130,BOS,DET
+349,Shot Chart Detail,0021600721,296,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,54,Missed Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,11,1,0,20170130,BOS,DET
+350,Shot Chart Detail,0021600721,301,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,27,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,7,1,0,20170130,BOS,DET
+351,Shot Chart Detail,0021600721,345,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-83,38,1,1,20170130,BOS,DET
+352,Shot Chart Detail,0021600721,357,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-181,218,1,0,20170130,BOS,DET
+353,Shot Chart Detail,0021600735,20,202720,Jon Leuer,1610612765,Detroit Pistons,1,9,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,31,1,0,20170201,DET,NOP
+354,Shot Chart Detail,0021600735,39,202720,Jon Leuer,1610612765,Detroit Pistons,1,7,22,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-83,11,1,0,20170201,DET,NOP
+355,Shot Chart Detail,0021600735,57,202720,Jon Leuer,1610612765,Detroit Pistons,1,5,25,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170201,DET,NOP
+356,Shot Chart Detail,0021600735,192,202720,Jon Leuer,1610612765,Detroit Pistons,2,1,35,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,27,57,1,0,20170201,DET,NOP
+357,Shot Chart Detail,0021600735,214,202720,Jon Leuer,1610612765,Detroit Pistons,3,11,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,19,262,1,0,20170201,DET,NOP
+358,Shot Chart Detail,0021600735,220,202720,Jon Leuer,1610612765,Detroit Pistons,3,10,30,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,8,1,0,20170201,DET,NOP
+359,Shot Chart Detail,0021600735,232,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-176,169,1,0,20170201,DET,NOP
+360,Shot Chart Detail,0021600748,5,202720,Jon Leuer,1610612765,Detroit Pistons,1,11,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,132,223,1,1,20170203,DET,MIN
+361,Shot Chart Detail,0021600748,20,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-124,229,1,0,20170203,DET,MIN
+362,Shot Chart Detail,0021600748,28,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-120,134,1,1,20170203,DET,MIN
+363,Shot Chart Detail,0021600748,33,202720,Jon Leuer,1610612765,Detroit Pistons,1,9,18,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,7,1,0,20170203,DET,MIN
+364,Shot Chart Detail,0021600748,55,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,33,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-137,80,1,1,20170203,DET,MIN
+365,Shot Chart Detail,0021600748,98,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,9,174,1,0,20170203,DET,MIN
+366,Shot Chart Detail,0021600748,200,202720,Jon Leuer,1610612765,Detroit Pistons,2,4,55,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-47,3,1,0,20170203,DET,MIN
+367,Shot Chart Detail,0021600748,229,202720,Jon Leuer,1610612765,Detroit Pistons,2,1,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-120,228,1,0,20170203,DET,MIN
+368,Shot Chart Detail,0021600748,262,202720,Jon Leuer,1610612765,Detroit Pistons,3,11,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-230,110,1,1,20170203,DET,MIN
+369,Shot Chart Detail,0021600748,297,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,188,1,1,20170203,DET,MIN
+370,Shot Chart Detail,0021600748,372,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-96,115,1,0,20170203,DET,MIN
+371,Shot Chart Detail,0021600748,374,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-45,262,1,0,20170203,DET,MIN
+372,Shot Chart Detail,0021600748,417,202720,Jon Leuer,1610612765,Detroit Pistons,4,7,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-201,165,1,1,20170203,DET,MIN
+373,Shot Chart Detail,0021600748,426,202720,Jon Leuer,1610612765,Detroit Pistons,4,6,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,13,1,0,20170203,DET,MIN
+374,Shot Chart Detail,0021600748,454,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,46,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,60,180,1,1,20170203,DET,MIN
+375,Shot Chart Detail,0021600748,486,202720,Jon Leuer,1610612765,Detroit Pistons,4,0,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,179,70,1,1,20170203,DET,MIN
+376,Shot Chart Detail,0021600757,25,202720,Jon Leuer,1610612765,Detroit Pistons,1,8,55,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-165,16,1,1,20170204,IND,DET
+377,Shot Chart Detail,0021600757,28,202720,Jon Leuer,1610612765,Detroit Pistons,1,8,27,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,151,36,1,1,20170204,IND,DET
+378,Shot Chart Detail,0021600757,46,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,6,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,16,1,1,20170204,IND,DET
+379,Shot Chart Detail,0021600757,51,202720,Jon Leuer,1610612765,Detroit Pistons,1,5,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-65,244,1,0,20170204,IND,DET
+380,Shot Chart Detail,0021600757,242,202720,Jon Leuer,1610612765,Detroit Pistons,2,2,9,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,1,20170204,IND,DET
+381,Shot Chart Detail,0021600757,250,202720,Jon Leuer,1610612765,Detroit Pistons,2,0,46,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,13,1,1,20170204,IND,DET
+382,Shot Chart Detail,0021600757,280,202720,Jon Leuer,1610612765,Detroit Pistons,3,9,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-11,267,1,0,20170204,IND,DET
+383,Shot Chart Detail,0021600757,302,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,48,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-68,126,1,1,20170204,IND,DET
+384,Shot Chart Detail,0021600757,304,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,38,1,0,20170204,IND,DET
+385,Shot Chart Detail,0021600757,313,202720,Jon Leuer,1610612765,Detroit Pistons,3,5,50,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-97,126,1,0,20170204,IND,DET
+386,Shot Chart Detail,0021600757,430,202720,Jon Leuer,1610612765,Detroit Pistons,4,6,11,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-137,95,1,1,20170204,IND,DET
+387,Shot Chart Detail,0021600773,9,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-102,237,1,1,20170206,DET,PHI
+388,Shot Chart Detail,0021600773,21,202720,Jon Leuer,1610612765,Detroit Pistons,1,8,59,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-22,43,1,1,20170206,DET,PHI
+389,Shot Chart Detail,0021600773,24,202720,Jon Leuer,1610612765,Detroit Pistons,1,8,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,176,8,1,0,20170206,DET,PHI
+390,Shot Chart Detail,0021600773,78,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-129,223,1,0,20170206,DET,PHI
+391,Shot Chart Detail,0021600773,219,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,47,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,122,8,1,0,20170206,DET,PHI
+392,Shot Chart Detail,0021600773,233,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,3,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,36,1,0,20170206,DET,PHI
+393,Shot Chart Detail,0021600773,306,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,38,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-1,1,1,20170206,DET,PHI
+394,Shot Chart Detail,0021600773,323,202720,Jon Leuer,1610612765,Detroit Pistons,3,6,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-1,1,1,20170206,DET,PHI
+395,Shot Chart Detail,0021600773,455,202720,Jon Leuer,1610612765,Detroit Pistons,4,6,43,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20170206,DET,PHI
+396,Shot Chart Detail,0021600786,15,202720,Jon Leuer,1610612765,Detroit Pistons,1,9,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20170208,DET,LAL
+397,Shot Chart Detail,0021600786,29,202720,Jon Leuer,1610612765,Detroit Pistons,1,7,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-140,228,1,0,20170208,DET,LAL
+398,Shot Chart Detail,0021600786,44,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,45,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,43,1,0,20170208,DET,LAL
+399,Shot Chart Detail,0021600786,167,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170208,DET,LAL
+400,Shot Chart Detail,0021600786,180,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-140,228,1,0,20170208,DET,LAL
+401,Shot Chart Detail,0021600786,263,202720,Jon Leuer,1610612765,Detroit Pistons,2,0,52,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,2,1,0,20170208,DET,LAL
+402,Shot Chart Detail,0021600786,290,202720,Jon Leuer,1610612765,Detroit Pistons,3,11,19,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170208,DET,LAL
+403,Shot Chart Detail,0021600786,345,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170208,DET,LAL
+404,Shot Chart Detail,0021600786,415,202720,Jon Leuer,1610612765,Detroit Pistons,4,11,9,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-1,75,1,1,20170208,DET,LAL
+405,Shot Chart Detail,0021600786,423,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,20,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-74,21,1,0,20170208,DET,LAL
+406,Shot Chart Detail,0021600786,429,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,39,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20170208,DET,LAL
+407,Shot Chart Detail,0021600786,444,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,1,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-16,65,1,0,20170208,DET,LAL
+408,Shot Chart Detail,0021600786,472,202720,Jon Leuer,1610612765,Detroit Pistons,4,6,10,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,31,1,0,20170208,DET,LAL
+409,Shot Chart Detail,0021600786,477,202720,Jon Leuer,1610612765,Detroit Pistons,4,5,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20170208,DET,LAL
+410,Shot Chart Detail,0021600786,486,202720,Jon Leuer,1610612765,Detroit Pistons,4,4,53,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,2,1,0,20170208,DET,LAL
+411,Shot Chart Detail,0021600786,492,202720,Jon Leuer,1610612765,Detroit Pistons,4,4,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170208,DET,LAL
+412,Shot Chart Detail,0021600786,498,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,42,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,92,174,1,1,20170208,DET,LAL
+413,Shot Chart Detail,0021600801,12,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,8,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-88,2,1,0,20170210,DET,SAS
+414,Shot Chart Detail,0021600801,131,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,45,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-6,1,0,20170210,DET,SAS
+415,Shot Chart Detail,0021600801,212,202720,Jon Leuer,1610612765,Detroit Pistons,2,0,4,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,0,20170210,DET,SAS
+416,Shot Chart Detail,0021600801,232,202720,Jon Leuer,1610612765,Detroit Pistons,3,10,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-153,18,1,1,20170210,DET,SAS
+417,Shot Chart Detail,0021600801,248,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,150,188,1,0,20170210,DET,SAS
+418,Shot Chart Detail,0021600801,267,202720,Jon Leuer,1610612765,Detroit Pistons,3,6,54,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,13,1,1,20170210,DET,SAS
+419,Shot Chart Detail,0021600801,270,202720,Jon Leuer,1610612765,Detroit Pistons,3,6,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,125,11,1,0,20170210,DET,SAS
+420,Shot Chart Detail,0021600801,387,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-29,160,1,1,20170210,DET,SAS
+421,Shot Chart Detail,0021600801,443,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,158,87,1,1,20170210,DET,SAS
+422,Shot Chart Detail,0021600818,22,202720,Jon Leuer,1610612765,Detroit Pistons,1,9,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,145,218,1,0,20170212,TOR,DET
+423,Shot Chart Detail,0021600818,25,202720,Jon Leuer,1610612765,Detroit Pistons,1,9,0,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,16,1,1,20170212,TOR,DET
+424,Shot Chart Detail,0021600818,46,202720,Jon Leuer,1610612765,Detroit Pistons,1,7,52,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,45,149,1,0,20170212,TOR,DET
+425,Shot Chart Detail,0021600818,80,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,7,1,0,20170212,TOR,DET
+426,Shot Chart Detail,0021600818,193,202720,Jon Leuer,1610612765,Detroit Pistons,2,5,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-150,193,1,0,20170212,TOR,DET
+427,Shot Chart Detail,0021600824,11,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,168,193,1,1,20170213,MIL,DET
+428,Shot Chart Detail,0021600824,25,202720,Jon Leuer,1610612765,Detroit Pistons,1,8,23,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-74,75,1,1,20170213,MIL,DET
+429,Shot Chart Detail,0021600824,210,202720,Jon Leuer,1610612765,Detroit Pistons,2,2,56,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,140,-15,1,1,20170213,MIL,DET
+430,Shot Chart Detail,0021600824,249,202720,Jon Leuer,1610612765,Detroit Pistons,3,11,3,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-142,120,1,1,20170213,MIL,DET
+431,Shot Chart Detail,0021600824,254,202720,Jon Leuer,1610612765,Detroit Pistons,3,10,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-8,-1,1,0,20170213,MIL,DET
+432,Shot Chart Detail,0021600824,314,202720,Jon Leuer,1610612765,Detroit Pistons,3,5,16,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20170213,MIL,DET
+433,Shot Chart Detail,0021600824,361,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,24,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-48,70,1,1,20170213,MIL,DET
+434,Shot Chart Detail,0021600824,442,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,28,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-107,124,1,0,20170213,MIL,DET
+435,Shot Chart Detail,0021600824,452,202720,Jon Leuer,1610612765,Detroit Pistons,4,2,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-186,198,1,0,20170213,MIL,DET
+436,Shot Chart Detail,0021600839,18,202720,Jon Leuer,1610612765,Detroit Pistons,1,9,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-143,21,1,0,20170215,DET,DAL
+437,Shot Chart Detail,0021600839,34,202720,Jon Leuer,1610612765,Detroit Pistons,1,8,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,17,77,1,1,20170215,DET,DAL
+438,Shot Chart Detail,0021600839,56,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,45,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-147,41,1,1,20170215,DET,DAL
+439,Shot Chart Detail,0021600839,140,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-60,115,1,1,20170215,DET,DAL
+440,Shot Chart Detail,0021600839,154,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,31,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,21,1,1,20170215,DET,DAL
+441,Shot Chart Detail,0021600839,286,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,29,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-151,8,1,0,20170215,DET,DAL
+442,Shot Chart Detail,0021600839,453,202720,Jon Leuer,1610612765,Detroit Pistons,4,2,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-174,62,1,1,20170215,DET,DAL
+443,Shot Chart Detail,0021600851,7,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,3,1,0,20170223,DET,CHA
+444,Shot Chart Detail,0021600851,25,202720,Jon Leuer,1610612765,Detroit Pistons,1,7,15,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,28,1,0,20170223,DET,CHA
+445,Shot Chart Detail,0021600851,32,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-109,232,1,0,20170223,DET,CHA
+446,Shot Chart Detail,0021600851,126,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,23,Missed Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,24,1,0,20170223,DET,CHA
+447,Shot Chart Detail,0021600851,171,202720,Jon Leuer,1610612765,Detroit Pistons,2,5,32,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-91,174,1,1,20170223,DET,CHA
+448,Shot Chart Detail,0021600851,178,202720,Jon Leuer,1610612765,Detroit Pistons,2,5,5,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-7,75,1,1,20170223,DET,CHA
+449,Shot Chart Detail,0021600851,224,202720,Jon Leuer,1610612765,Detroit Pistons,2,1,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,125,75,1,0,20170223,DET,CHA
+450,Shot Chart Detail,0021600851,290,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,16,1,0,20170223,DET,CHA
+451,Shot Chart Detail,0021600851,296,202720,Jon Leuer,1610612765,Detroit Pistons,3,6,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-183,21,1,1,20170223,DET,CHA
+452,Shot Chart Detail,0021600851,307,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,44,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-65,110,1,1,20170223,DET,CHA
+453,Shot Chart Detail,0021600851,402,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,5,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-60,23,1,1,20170223,DET,CHA
+454,Shot Chart Detail,0021600851,414,202720,Jon Leuer,1610612765,Detroit Pistons,4,7,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,155,139,1,0,20170223,DET,CHA
+455,Shot Chart Detail,0021600851,435,202720,Jon Leuer,1610612765,Detroit Pistons,4,5,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-192,190,1,0,20170223,DET,CHA
+456,Shot Chart Detail,0021600851,514,202720,Jon Leuer,1610612765,Detroit Pistons,5,1,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,7,1,0,20170223,DET,CHA
+457,Shot Chart Detail,0021600879,13,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-171,188,1,1,20170226,DET,BOS
+458,Shot Chart Detail,0021600879,27,202720,Jon Leuer,1610612765,Detroit Pistons,1,8,21,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,11,1,0,20170226,DET,BOS
+459,Shot Chart Detail,0021600879,38,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,33,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-115,31,1,0,20170226,DET,BOS
+460,Shot Chart Detail,0021600879,60,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,22,257,1,1,20170226,DET,BOS
+461,Shot Chart Detail,0021600879,190,202720,Jon Leuer,1610612765,Detroit Pistons,2,5,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-202,170,1,0,20170226,DET,BOS
+462,Shot Chart Detail,0021600879,207,202720,Jon Leuer,1610612765,Detroit Pistons,2,4,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-19,259,1,0,20170226,DET,BOS
+463,Shot Chart Detail,0021600879,260,202720,Jon Leuer,1610612765,Detroit Pistons,3,11,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-102,224,1,0,20170226,DET,BOS
+464,Shot Chart Detail,0021600879,279,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-45,252,1,0,20170226,DET,BOS
+465,Shot Chart Detail,0021600879,401,202720,Jon Leuer,1610612765,Detroit Pistons,4,11,1,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,7,1,0,20170226,DET,BOS
+466,Shot Chart Detail,0021600879,403,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,53,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,56,1,1,20170226,DET,BOS
+467,Shot Chart Detail,0021600879,457,202720,Jon Leuer,1610612765,Detroit Pistons,4,6,6,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20170226,DET,BOS
+468,Shot Chart Detail,0021600890,6,202720,Jon Leuer,1610612765,Detroit Pistons,1,11,10,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,73,3,1,0,20170228,DET,POR
+469,Shot Chart Detail,0021600890,129,202720,Jon Leuer,1610612765,Detroit Pistons,2,11,24,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-173,34,1,0,20170228,DET,POR
+470,Shot Chart Detail,0021600890,140,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,32,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-112,7,1,0,20170228,DET,POR
+471,Shot Chart Detail,0021600890,156,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-78,254,1,0,20170228,DET,POR
+472,Shot Chart Detail,0021600890,253,202720,Jon Leuer,1610612765,Detroit Pistons,3,11,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,202,159,1,0,20170228,DET,POR
+473,Shot Chart Detail,0021600890,289,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,48,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,16,1,0,20170228,DET,POR
+474,Shot Chart Detail,0021600890,310,202720,Jon Leuer,1610612765,Detroit Pistons,3,5,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,228,1,0,20170228,DET,POR
+475,Shot Chart Detail,0021600890,312,202720,Jon Leuer,1610612765,Detroit Pistons,3,5,12,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,189,13,1,0,20170228,DET,POR
+476,Shot Chart Detail,0021600900,10,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,46,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-19,2,1,1,20170301,NOP,DET
+477,Shot Chart Detail,0021600900,15,202720,Jon Leuer,1610612765,Detroit Pistons,1,9,37,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-117,3,1,1,20170301,NOP,DET
+478,Shot Chart Detail,0021600900,33,202720,Jon Leuer,1610612765,Detroit Pistons,1,7,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,155,16,1,1,20170301,NOP,DET
+479,Shot Chart Detail,0021600900,52,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,31,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,2,1,0,20170301,NOP,DET
+480,Shot Chart Detail,0021600900,71,202720,Jon Leuer,1610612765,Detroit Pistons,1,5,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,11,1,0,20170301,NOP,DET
+481,Shot Chart Detail,0021600900,81,202720,Jon Leuer,1610612765,Detroit Pistons,1,4,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-114,156,1,0,20170301,NOP,DET
+482,Shot Chart Detail,0021600900,93,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,50,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-91,136,1,0,20170301,NOP,DET
+483,Shot Chart Detail,0021600900,147,202720,Jon Leuer,1610612765,Detroit Pistons,2,11,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,14,7,1,1,20170301,NOP,DET
+484,Shot Chart Detail,0021600900,170,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,184,190,1,0,20170301,NOP,DET
+485,Shot Chart Detail,0021600900,179,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,42,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,35,154,1,0,20170301,NOP,DET
+486,Shot Chart Detail,0021600900,184,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,11,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,2,65,1,0,20170301,NOP,DET
+487,Shot Chart Detail,0021600900,212,202720,Jon Leuer,1610612765,Detroit Pistons,2,6,36,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,71,46,1,1,20170301,NOP,DET
+488,Shot Chart Detail,0021600900,208,202720,Jon Leuer,1610612765,Detroit Pistons,2,5,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,0,1,0,20170301,NOP,DET
+489,Shot Chart Detail,0021600900,213,202720,Jon Leuer,1610612765,Detroit Pistons,2,5,4,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-109,11,1,1,20170301,NOP,DET
+490,Shot Chart Detail,0021600900,242,202720,Jon Leuer,1610612765,Detroit Pistons,2,2,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,11,1,1,20170301,NOP,DET
+491,Shot Chart Detail,0021600900,247,202720,Jon Leuer,1610612765,Detroit Pistons,2,1,21,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,8,1,1,20170301,NOP,DET
+492,Shot Chart Detail,0021600900,310,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-219,165,1,0,20170301,NOP,DET
+493,Shot Chart Detail,0021600900,323,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,3,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,11,1,1,20170301,NOP,DET
+494,Shot Chart Detail,0021600900,330,202720,Jon Leuer,1610612765,Detroit Pistons,3,5,49,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,22,82,1,0,20170301,NOP,DET
+495,Shot Chart Detail,0021600900,349,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-73,106,1,0,20170301,NOP,DET
+496,Shot Chart Detail,0021600900,386,202720,Jon Leuer,1610612765,Detroit Pistons,3,2,11,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,21,1,0,20170301,NOP,DET
+497,Shot Chart Detail,0021600900,518,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-24,67,1,1,20170301,NOP,DET
+498,Shot Chart Detail,0021600900,547,202720,Jon Leuer,1610612765,Detroit Pistons,4,1,14,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170301,NOP,DET
+499,Shot Chart Detail,0021600919,5,202720,Jon Leuer,1610612765,Detroit Pistons,1,11,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-156,218,1,0,20170304,PHI,DET
+500,Shot Chart Detail,0021600919,133,202720,Jon Leuer,1610612765,Detroit Pistons,2,11,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,0,1,0,20170304,PHI,DET
+501,Shot Chart Detail,0021600919,148,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,7,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,156,-6,1,0,20170304,PHI,DET
+502,Shot Chart Detail,0021600919,209,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,44,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,26,1,1,20170304,PHI,DET
+503,Shot Chart Detail,0021600919,219,202720,Jon Leuer,1610612765,Detroit Pistons,2,2,50,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170304,PHI,DET
+504,Shot Chart Detail,0021600919,272,202720,Jon Leuer,1610612765,Detroit Pistons,3,9,46,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,107,134,1,0,20170304,PHI,DET
+505,Shot Chart Detail,0021600919,308,202720,Jon Leuer,1610612765,Detroit Pistons,3,6,58,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,16,1,1,20170304,PHI,DET
+506,Shot Chart Detail,0021600938,27,202720,Jon Leuer,1610612765,Detroit Pistons,1,9,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-217,154,1,0,20170306,DET,CHI
+507,Shot Chart Detail,0021600938,46,202720,Jon Leuer,1610612765,Detroit Pistons,1,7,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,2,1,0,20170306,DET,CHI
+508,Shot Chart Detail,0021600938,138,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,46,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,11,1,0,20170306,DET,CHI
+509,Shot Chart Detail,0021600938,152,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,1,20170306,DET,CHI
+510,Shot Chart Detail,0021600938,164,202720,Jon Leuer,1610612765,Detroit Pistons,2,5,51,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170306,DET,CHI
+511,Shot Chart Detail,0021600938,199,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,14,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,3,1,1,20170306,DET,CHI
+512,Shot Chart Detail,0021600938,209,202720,Jon Leuer,1610612765,Detroit Pistons,2,2,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-230,129,1,0,20170306,DET,CHI
+513,Shot Chart Detail,0021600938,233,202720,Jon Leuer,1610612765,Detroit Pistons,2,0,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-6,1,1,20170306,DET,CHI
+514,Shot Chart Detail,0021600938,255,202720,Jon Leuer,1610612765,Detroit Pistons,3,9,0,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,17,213,1,0,20170306,DET,CHI
+515,Shot Chart Detail,0021600938,279,202720,Jon Leuer,1610612765,Detroit Pistons,3,6,59,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,21,60,208,1,1,20170306,DET,CHI
+516,Shot Chart Detail,0021600938,386,202720,Jon Leuer,1610612765,Detroit Pistons,4,11,1,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-6,1,0,20170306,DET,CHI
+517,Shot Chart Detail,0021600938,408,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,16,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,33,1,1,20170306,DET,CHI
+518,Shot Chart Detail,0021600956,40,202720,Jon Leuer,1610612765,Detroit Pistons,1,7,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-171,-11,1,0,20170308,IND,DET
+519,Shot Chart Detail,0021600956,227,202720,Jon Leuer,1610612765,Detroit Pistons,2,2,3,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20170308,IND,DET
+520,Shot Chart Detail,0021600956,235,202720,Jon Leuer,1610612765,Detroit Pistons,2,0,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-133,0,1,0,20170308,IND,DET
+521,Shot Chart Detail,0021600956,258,202720,Jon Leuer,1610612765,Detroit Pistons,3,10,42,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,8,1,1,20170308,IND,DET
+522,Shot Chart Detail,0021600956,265,202720,Jon Leuer,1610612765,Detroit Pistons,3,9,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-132,247,1,0,20170308,IND,DET
+523,Shot Chart Detail,0021600956,277,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,43,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-199,-26,1,1,20170308,IND,DET
+524,Shot Chart Detail,0021600956,281,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,7,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-11,1,0,20170308,IND,DET
+525,Shot Chart Detail,0021600956,293,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,3,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,2,1,1,20170308,IND,DET
+526,Shot Chart Detail,0021600956,305,202720,Jon Leuer,1610612765,Detroit Pistons,3,5,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-9,257,1,1,20170308,IND,DET
+527,Shot Chart Detail,0021600956,375,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,45,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-1,1,1,20170308,IND,DET
+528,Shot Chart Detail,0021600956,407,202720,Jon Leuer,1610612765,Detroit Pistons,4,7,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,164,-11,1,0,20170308,IND,DET
+529,Shot Chart Detail,0021600956,439,202720,Jon Leuer,1610612765,Detroit Pistons,4,4,3,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,57,1,1,20170308,IND,DET
+530,Shot Chart Detail,0021600956,441,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,20,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-106,31,1,0,20170308,IND,DET
+531,Shot Chart Detail,0021600960,137,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,115,97,1,0,20170309,DET,CLE
+532,Shot Chart Detail,0021600975,94,202720,Jon Leuer,1610612765,Detroit Pistons,1,1,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-129,208,1,1,20170311,DET,NYK
+533,Shot Chart Detail,0021600975,116,202720,Jon Leuer,1610612765,Detroit Pistons,2,11,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,171,21,1,1,20170311,DET,NYK
+534,Shot Chart Detail,0021600975,333,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-70,100,1,1,20170311,DET,NYK
+535,Shot Chart Detail,0021600975,343,202720,Jon Leuer,1610612765,Detroit Pistons,4,11,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,16,1,0,20170311,DET,NYK
+536,Shot Chart Detail,0021600975,353,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,2,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-122,7,1,0,20170311,DET,NYK
+537,Shot Chart Detail,0021600975,358,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,89,11,1,1,20170311,DET,NYK
+538,Shot Chart Detail,0021600975,361,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,0,262,1,0,20170311,DET,NYK
+539,Shot Chart Detail,0021600975,379,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,2,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170311,DET,NYK
+540,Shot Chart Detail,0021600975,475,202720,Jon Leuer,1610612765,Detroit Pistons,4,1,16,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-86,61,1,0,20170311,DET,NYK
+541,Shot Chart Detail,0021600999,324,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,52,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-135,72,1,1,20170314,CLE,DET
+542,Shot Chart Detail,0021600999,371,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,17,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-176,57,1,0,20170314,CLE,DET
+543,Shot Chart Detail,0021600999,403,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,29,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20170314,CLE,DET
+544,Shot Chart Detail,0021600999,437,202720,Jon Leuer,1610612765,Detroit Pistons,4,6,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-1,90,1,0,20170314,CLE,DET
+545,Shot Chart Detail,0021600999,460,202720,Jon Leuer,1610612765,Detroit Pistons,4,4,20,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,2,1,0,20170314,CLE,DET
+546,Shot Chart Detail,0021600999,479,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,4,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,41,1,1,20170314,CLE,DET
+547,Shot Chart Detail,0021601008,10,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-5,1,1,20170315,DET,UTA
+548,Shot Chart Detail,0021601008,41,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,37,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-17,57,1,0,20170315,DET,UTA
+549,Shot Chart Detail,0021601008,45,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,18,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20170315,DET,UTA
+550,Shot Chart Detail,0021601008,139,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,4,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,23,1,0,20170315,DET,UTA
+551,Shot Chart Detail,0021601008,184,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-166,11,1,0,20170315,DET,UTA
+552,Shot Chart Detail,0021601008,229,202720,Jon Leuer,1610612765,Detroit Pistons,3,11,27,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-196,26,1,0,20170315,DET,UTA
+553,Shot Chart Detail,0021601008,331,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20170315,DET,UTA
+554,Shot Chart Detail,0021601008,409,202720,Jon Leuer,1610612765,Detroit Pistons,4,5,49,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,16,1,0,20170315,DET,UTA
+555,Shot Chart Detail,0021601023,155,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,164,208,1,0,20170317,DET,TOR
+556,Shot Chart Detail,0021601023,171,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,32,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,130,2,1,1,20170317,DET,TOR
+557,Shot Chart Detail,0021601023,187,202720,Jon Leuer,1610612765,Detroit Pistons,2,7,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-20,262,1,1,20170317,DET,TOR
+558,Shot Chart Detail,0021601023,194,202720,Jon Leuer,1610612765,Detroit Pistons,2,6,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,3,1,1,20170317,DET,TOR
+559,Shot Chart Detail,0021601023,226,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-70,124,1,0,20170317,DET,TOR
+560,Shot Chart Detail,0021601023,248,202720,Jon Leuer,1610612765,Detroit Pistons,2,1,25,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-140,2,1,1,20170317,DET,TOR
+561,Shot Chart Detail,0021601023,364,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,-1,1,1,20170317,DET,TOR
+562,Shot Chart Detail,0021601023,405,202720,Jon Leuer,1610612765,Detroit Pistons,4,8,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-161,205,1,0,20170317,DET,TOR
+563,Shot Chart Detail,0021601038,63,202720,Jon Leuer,1610612765,Detroit Pistons,1,5,2,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,73,97,1,0,20170319,DET,PHX
+564,Shot Chart Detail,0021601038,93,202720,Jon Leuer,1610612765,Detroit Pistons,1,3,13,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,138,56,1,0,20170319,DET,PHX
+565,Shot Chart Detail,0021601038,115,202720,Jon Leuer,1610612765,Detroit Pistons,1,1,7,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,13,1,0,20170319,DET,PHX
+566,Shot Chart Detail,0021601038,142,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-110,100,1,0,20170319,DET,PHX
+567,Shot Chart Detail,0021601038,148,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,33,139,1,0,20170319,DET,PHX
+568,Shot Chart Detail,0021601038,381,202720,Jon Leuer,1610612765,Detroit Pistons,3,5,0,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,16,1,1,20170319,DET,PHX
+569,Shot Chart Detail,0021601038,417,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,1,20170319,DET,PHX
+570,Shot Chart Detail,0021601038,456,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,46,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,86,21,1,0,20170319,DET,PHX
+571,Shot Chart Detail,0021601038,461,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,16,1,1,20170319,DET,PHX
+572,Shot Chart Detail,0021601038,586,202720,Jon Leuer,1610612765,Detroit Pistons,4,0,31,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20170319,DET,PHX
+573,Shot Chart Detail,0021601052,128,202720,Jon Leuer,1610612765,Detroit Pistons,2,11,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-173,175,1,0,20170321,BKN,DET
+574,Shot Chart Detail,0021601052,143,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,19,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,0,110,1,0,20170321,BKN,DET
+575,Shot Chart Detail,0021601052,175,202720,Jon Leuer,1610612765,Detroit Pistons,2,5,44,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,109,2,1,0,20170321,BKN,DET
+576,Shot Chart Detail,0021601052,314,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,19,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,30,7,1,0,20170321,BKN,DET
+577,Shot Chart Detail,0021601052,326,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,-6,1,0,20170321,BKN,DET
+578,Shot Chart Detail,0021601052,381,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,40,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,78,62,1,0,20170321,BKN,DET
+579,Shot Chart Detail,0021601052,404,202720,Jon Leuer,1610612765,Detroit Pistons,4,7,30,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-163,-6,1,0,20170321,BKN,DET
+580,Shot Chart Detail,0021601061,89,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-130,237,1,1,20170322,CHI,DET
+581,Shot Chart Detail,0021601061,93,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,143,0,1,1,20170322,CHI,DET
+582,Shot Chart Detail,0021601061,101,202720,Jon Leuer,1610612765,Detroit Pistons,1,1,25,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-24,11,1,1,20170322,CHI,DET
+583,Shot Chart Detail,0021601061,131,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,11,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-107,124,1,0,20170322,CHI,DET
+584,Shot Chart Detail,0021601061,326,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-127,160,1,0,20170322,CHI,DET
+585,Shot Chart Detail,0021601061,342,202720,Jon Leuer,1610612765,Detroit Pistons,3,2,52,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,8,1,1,20170322,CHI,DET
+586,Shot Chart Detail,0021601061,353,202720,Jon Leuer,1610612765,Detroit Pistons,3,1,52,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,2,106,1,0,20170322,CHI,DET
+587,Shot Chart Detail,0021601061,495,202720,Jon Leuer,1610612765,Detroit Pistons,4,1,27,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,7,1,1,20170322,CHI,DET
+588,Shot Chart Detail,0021601074,159,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,27,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,-5,1,1,20170324,ORL,DET
+589,Shot Chart Detail,0021601074,253,202720,Jon Leuer,1610612765,Detroit Pistons,2,0,56,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,19,-5,1,1,20170324,ORL,DET
+590,Shot Chart Detail,0021601074,353,202720,Jon Leuer,1610612765,Detroit Pistons,3,3,37,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-63,146,1,0,20170324,ORL,DET
+591,Shot Chart Detail,0021601074,382,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-50,242,1,0,20170324,ORL,DET
+592,Shot Chart Detail,0021601074,387,202720,Jon Leuer,1610612765,Detroit Pistons,3,0,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,7,1,1,20170324,ORL,DET
+593,Shot Chart Detail,0021601074,413,202720,Jon Leuer,1610612765,Detroit Pistons,4,9,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-92,242,1,0,20170324,ORL,DET
+594,Shot Chart Detail,0021601074,437,202720,Jon Leuer,1610612765,Detroit Pistons,4,7,9,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170324,ORL,DET
+595,Shot Chart Detail,0021601074,439,202720,Jon Leuer,1610612765,Detroit Pistons,4,6,28,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-160,87,1,1,20170324,ORL,DET
+596,Shot Chart Detail,0021601074,456,202720,Jon Leuer,1610612765,Detroit Pistons,4,4,53,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-1,1,1,20170324,ORL,DET
+597,Shot Chart Detail,0021601074,476,202720,Jon Leuer,1610612765,Detroit Pistons,4,2,41,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170324,ORL,DET
+598,Shot Chart Detail,0021601074,493,202720,Jon Leuer,1610612765,Detroit Pistons,4,2,2,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,19,1,0,20170324,ORL,DET
+599,Shot Chart Detail,0021601098,89,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,43,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,12,85,1,1,20170327,NYK,DET
+600,Shot Chart Detail,0021601098,117,202720,Jon Leuer,1610612765,Detroit Pistons,1,0,58,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-84,2,1,1,20170327,NYK,DET
+601,Shot Chart Detail,0021601098,126,202720,Jon Leuer,1610612765,Detroit Pistons,1,0,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-104,228,1,0,20170327,NYK,DET
+602,Shot Chart Detail,0021601098,145,202720,Jon Leuer,1610612765,Detroit Pistons,2,9,57,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,1,1,1,20170327,NYK,DET
+603,Shot Chart Detail,0021601098,268,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-30,247,1,0,20170327,NYK,DET
+604,Shot Chart Detail,0021601098,279,202720,Jon Leuer,1610612765,Detroit Pistons,3,6,9,Missed Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,23,1,0,20170327,NYK,DET
+605,Shot Chart Detail,0021601098,355,202720,Jon Leuer,1610612765,Detroit Pistons,4,10,52,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,22,114,193,1,0,20170327,NYK,DET
+606,Shot Chart Detail,0021601098,408,202720,Jon Leuer,1610612765,Detroit Pistons,4,5,24,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20170327,NYK,DET
+607,Shot Chart Detail,0021601107,166,202720,Jon Leuer,1610612765,Detroit Pistons,2,8,0,Missed Shot,Jump Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,7,1,0,20170328,DET,MIA
+608,Shot Chart Detail,0021601107,280,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-178,178,1,0,20170328,DET,MIA
+609,Shot Chart Detail,0021601107,292,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,13,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-138,57,1,0,20170328,DET,MIA
+610,Shot Chart Detail,0021601121,10,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-196,174,1,0,20170330,DET,BKN
+611,Shot Chart Detail,0021601121,19,202720,Jon Leuer,1610612765,Detroit Pistons,1,9,45,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,13,1,0,20170330,DET,BKN
+612,Shot Chart Detail,0021601121,32,202720,Jon Leuer,1610612765,Detroit Pistons,1,8,42,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,19,11,1,1,20170330,DET,BKN
+613,Shot Chart Detail,0021601121,231,202720,Jon Leuer,1610612765,Detroit Pistons,2,1,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-191,183,1,0,20170330,DET,BKN
+614,Shot Chart Detail,0021601121,256,202720,Jon Leuer,1610612765,Detroit Pistons,3,11,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,46,257,1,0,20170330,DET,BKN
+615,Shot Chart Detail,0021601121,324,202720,Jon Leuer,1610612765,Detroit Pistons,3,4,22,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,76,21,1,0,20170330,DET,BKN
+616,Shot Chart Detail,0021601121,418,202720,Jon Leuer,1610612765,Detroit Pistons,4,6,21,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,7,1,1,20170330,DET,BKN
+617,Shot Chart Detail,0021601121,449,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,26,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,16,1,0,20170330,DET,BKN
+618,Shot Chart Detail,0021601130,8,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,48,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-30,43,1,1,20170331,MIL,DET
+619,Shot Chart Detail,0021601130,37,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,30,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-97,87,1,0,20170331,MIL,DET
+620,Shot Chart Detail,0021601130,117,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,38,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,104,100,1,0,20170331,MIL,DET
+621,Shot Chart Detail,0021601130,123,202720,Jon Leuer,1610612765,Detroit Pistons,2,10,1,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-52,154,1,1,20170331,MIL,DET
+622,Shot Chart Detail,0021601130,172,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,41,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-178,51,1,0,20170331,MIL,DET
+623,Shot Chart Detail,0021601130,176,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,22,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,2,1,1,20170331,MIL,DET
+624,Shot Chart Detail,0021601130,229,202720,Jon Leuer,1610612765,Detroit Pistons,3,11,27,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,2,1,0,20170331,MIL,DET
+625,Shot Chart Detail,0021601130,240,202720,Jon Leuer,1610612765,Detroit Pistons,3,10,12,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,13,1,0,20170331,MIL,DET
+626,Shot Chart Detail,0021601130,265,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,94,56,1,0,20170331,MIL,DET
+627,Shot Chart Detail,0021601166,15,202720,Jon Leuer,1610612765,Detroit Pistons,1,9,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-1,1,1,20170405,DET,TOR
+628,Shot Chart Detail,0021601166,40,202720,Jon Leuer,1610612765,Detroit Pistons,1,7,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,173,65,1,1,20170405,DET,TOR
+629,Shot Chart Detail,0021601166,43,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,132,11,1,0,20170405,DET,TOR
+630,Shot Chart Detail,0021601166,272,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20170405,DET,TOR
+631,Shot Chart Detail,0021601166,282,202720,Jon Leuer,1610612765,Detroit Pistons,3,7,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-96,13,1,0,20170405,DET,TOR
+632,Shot Chart Detail,0021601201,8,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,35,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,99,82,1,0,20170409,MEM,DET
+633,Shot Chart Detail,0021601201,10,202720,Jon Leuer,1610612765,Detroit Pistons,1,10,27,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-168,-6,1,1,20170409,MEM,DET
+634,Shot Chart Detail,0021601201,26,202720,Jon Leuer,1610612765,Detroit Pistons,1,7,8,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,0,1,1,20170409,MEM,DET
+635,Shot Chart Detail,0021601201,32,202720,Jon Leuer,1610612765,Detroit Pistons,1,6,34,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,91,169,1,0,20170409,MEM,DET
+636,Shot Chart Detail,0021601201,185,202720,Jon Leuer,1610612765,Detroit Pistons,2,4,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,37,242,1,0,20170409,MEM,DET
+637,Shot Chart Detail,0021601201,198,202720,Jon Leuer,1610612765,Detroit Pistons,2,3,9,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,2,77,1,0,20170409,MEM,DET
+638,Shot Chart Detail,0021601201,267,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,53,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,21,1,0,20170409,MEM,DET
+639,Shot Chart Detail,0021601201,269,202720,Jon Leuer,1610612765,Detroit Pistons,3,8,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,3,1,1,20170409,MEM,DET
+640,Shot Chart Detail,0021601208,408,202720,Jon Leuer,1610612765,Detroit Pistons,4,3,25,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,0,20170410,DET,WAS
+641,Shot Chart Detail,0021601217,2,202720,Jon Leuer,1610612765,Detroit Pistons,1,11,41,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,26,1,0,20170412,ORL,DET
+642,Shot Chart Detail,0021601217,64,202720,Jon Leuer,1610612765,Detroit Pistons,1,5,26,Missed Shot,Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-19,26,1,0,20170412,ORL,DET
+643,Shot Chart Detail,0021601217,67,202720,Jon Leuer,1610612765,Detroit Pistons,1,5,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-199,16,1,0,20170412,ORL,DET
+644,Shot Chart Detail,0021601217,96,202720,Jon Leuer,1610612765,Detroit Pistons,1,2,51,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,16,1,0,20170412,ORL,DET
+645,Shot Chart Detail,0021601217,115,202720,Jon Leuer,1610612765,Detroit Pistons,1,0,59,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,3,1,0,20170412,ORL,DET
